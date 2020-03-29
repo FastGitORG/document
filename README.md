@@ -1,0 +1,2 @@
+# document
+FastGit Document
