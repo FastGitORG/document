@@ -18,7 +18,7 @@ git clone https://git.fastgit.org/author/repo
 
 我们并不反对对 git 配置的修改以方便你的工作。
 
-随着 FastGit 的成长，我们会拥有更多资源用于加速，对于节点列表，请参阅 [节点](../zh-cn/node.md) 章节。
+随着 FastGit 的成长，我们会拥有更多资源用于加速，对于节点列表，请参阅 [节点](../zh-cn/node.html) 章节。
 
 ## Web的使用
 

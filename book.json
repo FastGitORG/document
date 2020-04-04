@@ -1,0 +1,21 @@
+{
+    "title": "FastGit",
+    "author": "FastGit",
+    "description": "FastGit Document Center",
+    "plugins": [
+        "search-pro",
+        "-search",
+        "-lunr",
+        "expandable-chapters",
+        "splitter",
+        "-sharing",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy FastGit.org 2020",
+            "modify_label": "Modified",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}

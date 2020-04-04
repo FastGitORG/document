@@ -1,0 +1,5 @@
+# node files
+node_modules
+
+# gitbook files
+_book
