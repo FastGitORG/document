@@ -13,8 +13,7 @@
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
-            "copyright": "Copyright &copy FastGit.org 2020",
-            "modify_label": "Modified",
+            "copyright": "Copyright &copy FastGit 2020",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
