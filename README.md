@@ -9,3 +9,5 @@ We provide different languages version, here is the list.
   - [繁体中文](zh-tw/README.md)
 - English
   - [American English(尚未构建)](en-us/README.md)
+
+Now, we are using GitBook to help us generate Markdown file to HTML.
