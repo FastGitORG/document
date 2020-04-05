@@ -20,7 +20,7 @@ git clone https://git.fastgit.org/author/repo
 
 隨著 FastGit 的成長，我們會擁有更多資源用於加速，對於節點列表，請參閱 [節點](../zh-tw/node.html) 章節。
 
-## Web的使用
+## Web 的使用
 
 對於常見的 GitHub Web 操作， FastGit 的基礎節點也提供了最基礎的支持。你可以直接訪問包含有 Web 支持的節點。處於安全考慮，我們會禁用包括 `Cookie` 以及 `Session` 等敏感權限。這意味著您不能登錄進行操作。
 
@@ -35,12 +35,12 @@ wget https://release.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 
 ### FAQ
 
-Q: 為什麼我們不能使用 git.fastgit.org 進行下載?
-A: 因為我們的git並不啟用緩存，對於正常的 release ，不啟用緩存顯得有些奢侈，並且因為 release 包含了 301 等情況，目前也沒有辦法靠純 NGINX 配置進行規避。
+**Q:** 為什麼我們不能使用 git.fastgit.org 進行下載?  
+**A:** 因為我們的 git.fastgit.org 並不啟用緩存，對於正常的 release 下載需求，不啟用緩存顯得有些奢侈。並且因為 release 下載包含了 301 等情況，目前也沒有辦法靠純 NGINX 配置進行規避。
 （PS: 如果你有辦法，請通過issue的方法告訴我們）。
 
-Q: 為什麼我們不能用 release.fastgit.org 進行克隆？
-A: 因為有緩存，當然，正常請隨意。但是因為git我們添加了 `keep-alive` 所以速度要比 release 進行克隆要快。
+**Q:** 為什麼我們不能用 release.fastgit.org 進行克隆？  
+**A:** 因為 release.fastgit.org 存在緩存，可能和原始repo存在分割體驗。與此同時，我們為 git.fastgit.org 添加了 `keep-alive` ，所以速度要比 release 進行克隆要快。
 
 ## 對於 raw 的代理
 
