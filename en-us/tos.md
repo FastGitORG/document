@@ -1,6 +1,6 @@
 # Term of Service
 
-In the following article, the pronoun "we", "our" represents FastGit.
+In the following article, the pronoun "we" represents FastGit.
 
 ## Bottom Line
 
