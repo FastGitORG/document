@@ -12,7 +12,7 @@
 
 | 站源 | 節點 | 地址 | 緩存 |
 | ---- | --- | ---- | ---- |
-| github.com | fastgit.eastasia.cloudapp.azure.com | git.fastgit.org | 無 |
+| github.com | fastgit.eastasia.cloudapp.azure.com | hub.fastgit.org | 無 |
 | raw.githubusercontent.com | fastgit.eastasia.cloudapp.azure.com | raw.fastgit.org | 無 |
 | github.githubassets.com | fastgit.eastasia.cloudapp.azure.com | assets.fastgit.org | 無 |
 | customer-stories-feed.github.com | fastgit.eastasia.cloudapp.azure.com | customer-stories-feed.fastgit.org | 60 分鐘 |

@@ -11,7 +11,7 @@ git clone https://github.com/author/repo
 For using FastGit, you change it into:
 
 ```bash
-git clone https://git.fastgit.org/author/repo
+git clone https://hub.fastgit.org/author/repo
 ```
 
 Just like what you see, FastGit is physically  a proxy of GitHub, and you need only to replace the URL.
@@ -37,9 +37,9 @@ wget https://release.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 
 ### FAQ
 
-**Q:** Why can't I directly download files from `git.fastgit.org`?
+**Q:** Why can't I directly download files from `hub.fastgit.org`?
 
-**A:** Because are not yet having a method to solve the special situations such as HTTP 301 returns during caching releases, using only NGINX configurations. (PS: If you have an idea, please tell us via `issue` ) Also, we didn't enable cache for `git.github.com` . If you need to download a release, just use `release.fastgit.org` .
+**A:** Because are not yet having a method to solve the special situations such as HTTP 301 returns during caching releases, using only NGINX configurations. (PS: If you have an idea, please tell us via `issue` ) Also, we didn't enable cache for `hub.github.com` . If you need to download a release, just use `release.fastgit.org` .
 
 **Q:** Why can't I clone using `release.fastgit.org` ?
 

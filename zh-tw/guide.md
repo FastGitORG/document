@@ -11,7 +11,7 @@ git clone https://github.com/author/repo
 對於使用 FastGit 的情況，我們使用如下命令：
 
 ```bash
-git clone https://git.fastgit.org/author/repo
+git clone https://hub.fastgit.org/author/repo
 ```
 
 正如你所見， FastGit 僅僅是 GitHub 的代理，所以我們僅僅需要替代遠程地址即可。
@@ -35,12 +35,12 @@ wget https://release.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 
 ### FAQ
 
-**Q:** 為什麼我們不能使用 git.fastgit.org 進行下載?  
-**A:** 因為我們的 git.fastgit.org 並不啟用緩存，對於正常的 release 下載需求，不啟用緩存顯得有些奢侈。並且因為 release 下載包含了 301 等情況，目前也沒有辦法靠純 NGINX 配置進行規避。
+**Q:** 為什麼我們不能使用 hub.fastgit.org 進行下載?  
+**A:** 因為我們的 hub.fastgit.org 並不啟用緩存，對於正常的 release 下載需求，不啟用緩存顯得有些奢侈。並且因為 release 下載包含了 301 等情況，目前也沒有辦法靠純 NGINX 配置進行規避。
 （PS: 如果你有辦法，請通過issue的方法告訴我們）。
 
 **Q:** 為什麼我們不能用 release.fastgit.org 進行克隆？  
-**A:** 因為 release.fastgit.org 存在緩存，可能和原始repo存在分割體驗。與此同時，我們為 git.fastgit.org 添加了 `keep-alive` ，所以速度要比 release 進行克隆要快。
+**A:** 因為 release.fastgit.org 存在緩存，可能和原始repo存在分割體驗。與此同時，我們為 hub.fastgit.org 添加了 `keep-alive` ，所以速度要比 release 進行克隆要快。
 
 ## 對於 raw 的代理
 
