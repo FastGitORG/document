@@ -18,4 +18,5 @@ FastGit 的運營離不開任何一個志願者的支持，如若你想贊助我
 
 | 聯繫方式 | 地址 |
 | ------- | ---- |
-| 暫無 | 暫無 |
+| Telegram | [@fastgit](https://t.me/fastgit) |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |

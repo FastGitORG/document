@@ -18,4 +18,5 @@ If you donate us, it would greatly help us on running our FastGit!
 
 | Contact | Address |
 | ------- | ---- |
-| N/A | N/A |
+| Telegram | [@fastgit](https://t.me/fastgit) |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |

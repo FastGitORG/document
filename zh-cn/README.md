@@ -5,3 +5,10 @@
 ## 关于 FastGit
 
 FastGit 是一个对于 GitHub.com 的镜像加速器。我们使用开放资源为 GitHub 加速。
+
+## 联系我们
+
+| 联系方式 | 地址 |
+| ------- | ---- |
+| Telegram | [@fastgit](https://t.me/fastgit) |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |

@@ -18,4 +18,5 @@ FastGit 的运营离不开任何一个志愿者的支持，如若你想赞助我
 
 | 联系方式 | 地址 |
 | ------- | ---- |
-| 暂无 | 暂无 |
+| Telegram | [@fastgit](https://t.me/fastgit) |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |
