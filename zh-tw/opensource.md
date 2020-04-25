@@ -5,3 +5,4 @@
 | 源項目 | 開源協議 | 我們的地址 |
 | ------ | ------- | ---------- |
 | XGFan/ghproxy | no-license | fastgitorg/ghproxy |
+| zhj3618/gitbook-plugin-tbfed-pagefooter | Apache-2.0 | fastgitorg/gitbook-plugin-tbfed-pagefooter |

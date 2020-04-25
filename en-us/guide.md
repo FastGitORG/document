@@ -35,6 +35,10 @@ For common `clone` and `push` operations, FastGit already have perfect suppports
 wget https://release.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 ```
 
+## SSH Clone
+
+We also support SSH clone. Just replace github.com to fastgit.org to enjoy.
+
 ### FAQ
 
 **Q:** Why can't I directly download files from `hub.fastgit.org`?

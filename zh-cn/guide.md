@@ -33,6 +33,10 @@ git clone https://hub.fastgit.org/author/repo
 wget https://release.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 ```
 
+## SSH 克隆
+
+我们同样支持 SSH 克隆，你只需要把地址更换为 fastgit.org 即可。
+
 ### FAQ
 
 **Q:** 为什么我们不能使用 hub.fastgit.org 进行下载?  

@@ -5,3 +5,4 @@ We'll try to show all of the versions of the related project that we use for Fas
 | Source | License | Address |
 | ------ | ------- | ---------- |
 | XGFan/ghproxy | no-license | fastgitorg/ghproxy |
+| zhj3618/gitbook-plugin-tbfed-pagefooter | Apache-2.0 | fastgitorg/gitbook-plugin-tbfed-pagefooter |
