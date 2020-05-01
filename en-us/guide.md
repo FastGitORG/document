@@ -26,13 +26,19 @@ FastGit also supplies basic supports for the common GitHub Web operations. You c
 
 Due to the safety concerns, we banned sensitive operations like `Cookie` and `Session` . That means you are not able to do sensitive operations such as signing in GitHub via FastGit.
 
-## Download Releases
+## Download Releases or Source Code Archive
 
-For common `clone` and `push` operations, FastGit already have perfect suppports. We can use the command below to download releases.
+For common `clone` and `push` operations, FastGit already have perfect suppports. We can use the command below to download releases & source code archive.
 
 ```bash
+# Release
 # If your downalod link is: https://github.com/A/A/releases/download/1.0/1.0.tar.gz , then you use:
 wget https://release.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
+
+# Codeload
+# If your downalod link is: https://hub.fastgit.org/A/A/archive/master.zip
+# or https://codeload.github.com/A/A/zip/master
+wget https://download.fastgit.org/A/A/archive/master.zip
 ```
 
 ## SSH Clone
@@ -45,9 +51,9 @@ We also support SSH clone. Just replace github.com to fastgit.org to enjoy.
 
 **A:** Because are not yet having a method to solve the special situations such as HTTP 301 returns during caching releases, using only NGINX configurations. (PS: If you have an idea, please tell us via `issue` ) Also, we didn't enable cache for `hub.github.com` . If you need to download a release, just use `release.fastgit.org` .
 
-**Q:** Why can't I clone using `release.fastgit.org` ?
+**Q:** Why can't I clone using `download.fastgit.org` ?
 
-**A:** Because we have cache for `release.github.org` , and there could be a difference between the copy you get from FastGit comparing to the original repo. Anyway, we wouldn't stop you from doing that way. You should notice that we've added `keep-alive` for `git.github.org` and you can clone over there with usually a faster speed than the release one.
+**A:** Because we have cache for `download.github.org` , and there could be a difference between the copy you get from FastGit comparing to the original repo. Anyway, we wouldn't stop you from doing that way. You should notice that we've added `keep-alive` for `git.github.org` and you can clone over there with usually a faster speed than the release one.
 
 ## For the Raw Proxy
 

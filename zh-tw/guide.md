@@ -24,13 +24,18 @@ git clone https://hub.fastgit.org/author/repo
 
 對於常見的 GitHub Web 操作， FastGit 的基礎節點也提供了最基礎的支持。你可以直接訪問包含有 Web 支持的節點。處於安全考慮，我們會禁用包括 `Cookie` 以及 `Session` 等敏感權限。這意味著您不能登錄進行操作。
 
-## Release 的下載
+## 和源碼存檔的下載
 
-對於正常的 `clone` ， `push` 操作，FastGit 已經提供了相當完善的操作。對於 Release 的下載，我們可以使用如下方法進行操作。
+對於正常的 `clone` ， `push` 操作，FastGit 已經提供了相當完善的操作。對於 Release 和源碼存檔的下載，我們可以使用如下方法進行操作。
 
 ```bash
-# 假設下載鏈接為https://github.com/A/A/releases/download/1.0/1.0.tar.gz
+# 假設下載鏈接為 https://github.com/A/A/releases/download/1.0/1.0.tar.gz
 wget https://release.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
+
+# Codeload
+# 假設下載鏈接為h ttps://hub.fastgit.org/A/A/archive/master.zip
+# 或者 https://codeload.github.com/A/A/zip/master
+wget https://download.fastgit.org/A/A/archive/master.zip
 ```
 
 ## SSH 克隆

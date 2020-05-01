@@ -15,11 +15,10 @@
 | github.com | fastgit.eastasia.cloudapp.azure.com | hub.fastgit.org | 無 |
 | raw.githubusercontent.com | fastgit.eastasia.cloudapp.azure.com | raw.fastgit.org | 無 |
 | github.githubassets.com | fastgit.eastasia.cloudapp.azure.com | assets.fastgit.org | 無 |
-| codeload.github.com | fastgit.eastasia.cloudapp.azure.com | codeload.fastgit.org | 無 |
 | customer-stories-feed.github.com | fastgit.eastasia.cloudapp.azure.com | customer-stories-feed.fastgit.org | 60 分鐘 |
 
 ## API等其他表列
 
 | 標註 | 節點 | 地址 | 緩存 |
 | ---- | --- | ---- | ---- |
-| Github Release | fastgit.eastasia.cloudapp.azure.com | release.fastgit.org | 480 分鐘 |
+| Github Download | fastgit.eastasia.cloudapp.azure.com | download.fastgit.org | 480 分鐘 |

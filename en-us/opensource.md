@@ -6,3 +6,4 @@ We'll try to show all of the versions of the related project that we use for Fas
 | ------ | ------- | ---------- |
 | XGFan/ghproxy | no-license | fastgitorg/download |
 | zhj3618/gitbook-plugin-tbfed-pagefooter | Apache-2.0 | fastgitorg/gitbook-plugin-tbfed-pagefooter |
+| geekyouth/uptime-status | no-license | fastgitorg/status |
