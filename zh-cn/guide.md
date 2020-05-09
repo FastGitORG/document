@@ -22,7 +22,7 @@ git clone https://hub.fastgit.org/author/repo
 
 ## Web 的使用
 
-对于常见的 GitHub Web 操作， FastGit 的基础节点也提供了最基础的支持。你可以直接访问包含有 Web 支持的节点。处于安全考虑，我们会禁用包括 `Cookie` 以及 `Session` 等敏感权限。这意味着您不能登录进行操作。
+对于常见的 GitHub Web 操作， FastGit 的基础节点也提供了最基础的支持。你可以直接访问包含有 Web 支持的节点。出于安全考虑，我们会禁用包括 `Cookie` 以及 `Session` 等敏感权限。这意味着您不能登录进行操作。
 
 ## Release 和源码存档的下载
 
