@@ -15,7 +15,7 @@
 | github.com | fastgit.eastasia.cloudapp.azure.com | hub.fastgit.org | 无 |
 | raw.githubusercontent.com | fastgit.eastasia.cloudapp.azure.com | raw.fastgit.org | 无 |
 | github.githubassets.com | fastgit.eastasia.cloudapp.azure.com | assets.fastgit.org | 无 |
-| customer-stories-feed.github.com | fastgit.eastasia.cloudapp.azure.com | customer-stories-feed.fastgit.org | 60 分钟 |
+| customer-stories-feed.github.com | fastgit.eastasia.cloudapp.azure.com | customer-stories-feed.fastgit.org | 480 分钟 |
 
 ## API等其他表列
 
