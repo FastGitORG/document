@@ -8,7 +8,7 @@
 | ------- | --- | ---- | ------- | --- |
 | fastgit.eastasia.cloudapp.azure.com | Microsoft Azure | East Asia | 是 | FastGit 官方节点 |
 
-## 反代表列
+## 反代列表
 
 | 站源 | 节点 | 地址 | 缓存 |
 | ---- | --- | ---- | ---- |
@@ -17,7 +17,7 @@
 | github.githubassets.com | fastgit.eastasia.cloudapp.azure.com | assets.fastgit.org | 无 |
 | customer-stories-feed.github.com | fastgit.eastasia.cloudapp.azure.com | customer-stories-feed.fastgit.org | 480 分钟 |
 
-## API等其他表列
+## API等其他列表
 
 | 标注 | 节点 | 地址 | 缓存 |
 | ---- | --- | ---- | ---- |
