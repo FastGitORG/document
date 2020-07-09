@@ -33,7 +33,7 @@ For common `clone` and `push` operations, FastGit already have perfect suppports
 ```bash
 # Release
 # If your downalod link is: https://github.com/A/A/releases/download/1.0/1.0.tar.gz , then you use:
-wget https://release.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
+wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 
 # Codeload
 # If your downalod link is: https://hub.fastgit.org/A/A/archive/master.zip
@@ -49,7 +49,7 @@ We also support SSH clone. Just replace github.com to fastgit.org to enjoy.
 
 **Q:** Why can't I directly download files from `hub.fastgit.org`?
 
-**A:** Because are not yet having a method to solve the special situations such as HTTP 301 returns during caching releases, using only NGINX configurations. (PS: If you have an idea, please tell us via `issue` ) Also, we didn't enable cache for `hub.github.com` . If you need to download a release, just use `release.fastgit.org` .
+**A:** Because are not yet having a method to solve the special situations such as HTTP 301 returns during caching releases, using only NGINX configurations. (PS: If you have an idea, please tell us via `issue` ) Also, we didn't enable cache for `hub.github.com` . If you need to download a release, just use `download.fastgit.org` .
 
 **Q:** Why can't I clone using `download.fastgit.org` ?
 
