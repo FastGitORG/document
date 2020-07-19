@@ -8,13 +8,13 @@ We support firmly the One China principle, and resolutely resist any kind of rac
 
 ## Privacy
 
-We promise that we won't record any of your private information, including your `Cookie` and `Sesssion` . Also, we won't interfere with any of your private projects. For example, you should decide whether to use self-starting for the Release related cache sources.
+We promise that we won't record any of your private information, including your `Cookie` and `Session` . Also, we won't interfere with any of your private projects. For example, you should decide whether to use self-starting for the Release related cache sources.
 
 You should notice that FastGit has no responsibilities to protect your account's security.
 
 ## Service Agreement
 
-We don't support any service gurantee such as Service Level Agreement (SLA).
+We don't support any service guarantee such as Service Level Agreement (SLA).
 
 ## Copyright
 

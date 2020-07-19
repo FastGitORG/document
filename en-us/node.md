@@ -1,6 +1,6 @@
-# Nodes
+# Nodes (OUT OF DATE)
 
-All of our nodes are from the sponsors or purchased at our own expense.
+All of our nodes are from the sponsors or purchased by ourselve.
 
 ## Node List
 

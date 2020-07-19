@@ -4,7 +4,7 @@ FastGit cannot run without any volunteer. If you want to help us, please contact
 
 ## To Developers
 
-If you are a developer and are intend to devlop out FastGit together, we'll be very happy if you join the development of our programs to make FastGit easier to use.
+If you are a developer and are intend to develop FastGit together, we'll be very happy if you join the development of our programs to make FastGit easier to use.
 
 ## To Hosting Operators
 
