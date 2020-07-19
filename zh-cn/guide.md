@@ -41,7 +41,9 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 ## SSH 克隆
 
-我们同样支持 SSH 克隆，你只需要把地址更换为 fastgit.org 即可。
+~我们同样支持 SSH 克隆，你只需要把地址更换为 fastgit.org 即可。~
+
+由于不可抗逆因素，我们暂不支持 SSH 克隆。
 
 ### FAQ
 
