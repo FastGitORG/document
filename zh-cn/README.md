@@ -10,7 +10,7 @@ FastGit 是一个对于 GitHub.com 的镜像加速器。我们使用开放资源
 
 FastGit 目前仍处于测试阶段。我们会根据实际情况调整服务。
 
-文件站未实时更新。有关最新文档，请参阅[此链接](https://github.com/fastgitorg/document)。
+文档站未实时更新。有关最新文档，请参阅[此链接](https://github.com/fastgitorg/document)。
 
 ## 联系我们
 
