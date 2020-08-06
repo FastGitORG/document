@@ -14,15 +14,18 @@ git clone https://github.com/author/repo
 git clone https://hub.fastgit.org/author/repo
 ```
 
-正如你所见， FastGit 仅仅是 GitHub 的代理，所以我们仅仅需要替代远程地址即可。
+正如您所见， FastGit 仅仅是 GitHub 的代理，所以我们仅仅需要替代远程地址即可。
 
-我们并不反对对 git 配置的修改以方便你的工作。
+> **注意**  
+> 当开启 2FA 功能后， push 等需要您身份验证的操作会被拒绝。（无论您使用连接令牌与否）这是源于 GitHub 自身的规范。
+
+我们并不反对对 git 配置的修改以方便您的工作。
 
 随着 FastGit 的成长，我们会拥有更多资源用于加速，对于节点列表，请参阅 [节点](../zh-cn/node.html) 章节。
 
 ## Web 的使用
 
-对于常见的 GitHub Web 操作， FastGit 的基础节点也提供了最基础的支持。你可以直接访问包含有 Web 支持的节点。出于安全考虑，我们会禁用包括 `Cookie` 以及 `Session` 等敏感权限。这意味着您不能登录进行操作。
+对于常见的 GitHub Web 操作， FastGit 的基础节点也提供了最基础的支持。您可以直接访问包含有 Web 支持的节点。出于安全考虑，我们会禁用包括 `Cookie` 以及 `Session` 等敏感权限。这意味着您不能登录进行操作。
 
 ## Release 和源码存档的下载
 
@@ -41,7 +44,7 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 ## SSH 克隆
 
-~我们同样支持 SSH 克隆，你只需要把地址更换为 fastgit.org 即可。~
+~~我们同样支持 SSH 克隆，您只需要把地址更换为 fastgit.org 即可。~~
 
 由于不可抗逆因素，我们暂不支持 SSH 克隆。
 
@@ -49,7 +52,7 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 **Q:** 为什么我们不能使用 hub.fastgit.org 进行下载?  
 **A:** 因为我们的 hub.fastgit.org 并不启用缓存，对于正常的 release 下载需求，不启用缓存显得有些奢侈。并且因为 release 下载包含了 301 等情况，目前也没有办法靠纯 NGINX 配置进行规避。  
-（PS: 如果你有办法，请通过issue的方法告诉我们）。
+（PS: 如果您有办法，请通过issue的方法告诉我们）。
 
 **Q:** 为什么我们不能用 download.fastgit.org 进行克隆？  
 **A:** 因为 download.fastgit.org 存在缓存，可能和原始repo存在分割体验。与此同时，我们为 hub.fastgit.org 添加了 `keep-alive` ，所以速度要比 release 进行克隆要快。
