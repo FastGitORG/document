@@ -4,7 +4,7 @@ Your privacy is important to us. This privacy statement explains the personal da
 
 ## Personal data we collect
 
-FastGit collects data from you, we get some of it by collecting data about your interactions, use, and experiences with our products. The data we collect depends on the context of your interactions with FastGit and the choices you make, including your privacy settings and the products and features you use.
+FastGit collects data from you, we get some of it by collecting data about your interactions usage, and experiences with our products. The data we collect depends on the context of your interactions with FastGit and the choices you make, including your privacy settings and the products and features you use.
 
 For the running of the FastGit core service, we promise to collect only the standard NGINX access logs (contain your IP address, access path and request size, etc.) . For more information on access logs, see [NGINX log module](https://nginx.org/en/docs/http/ngx_http_log_module.html) and our open source [NGINX profile](https://github.com/fastgitorg/NGINX-conf) .
 
