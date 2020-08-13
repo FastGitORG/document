@@ -26,4 +26,4 @@ FastGit 使用我们收集的数据为你提供丰富的交互式体验。我们
 
 ## Cookie 和类似技术
 
-我们承诺不使用 Cookie 。如若为 GitHub 所配置的 Cookie ，我们则尽可能不干扰。
+我们承诺不使用 Cookie 。如若为 GitHub 所配置的 Cookie ，我们则尽可能不干扰。请参阅 [Cookies on GitHub](https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies#cookies-on-github) 以获得更多信息。
