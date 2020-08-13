@@ -16,6 +16,10 @@ FastGit uses the data we collect to provide you with rich, interactive experienc
 - Improve and develop our products.
 - Personalize our products and make recommendations.
 
+## Share personal data
+
+We don't share your personal data with the third-party.
+
 ## How to access and control your personal data
 
 You can also make choices about the collection and use of your data by FastGit. You can control your personal data that FastGit has obtained, and exercise your data protection rights, by contacting FastGit. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use.
