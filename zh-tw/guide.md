@@ -1,6 +1,6 @@
 # 使用指南
 
-請在同意我們服務條款後，再進行下一步。如若進行，我們將默認視為同意並遵守我們的服務條款。
+請在同意我們的服務條款後，再進行下一步。如若進行，我們將默認視為同意並遵守我們的服務條款。
 
 關於 FastGit 的使用，本質上與 `git` 有關。正常的面向 GitHub 的 `clone` 命令可能如下：
 
@@ -21,22 +21,22 @@ git clone https://hub.fastgit.org/author/repo
 
 我們並不反對對 git 配置的修改以方便您的工作。
 
-隨著 FastGit 的成長，我們會擁有更多資源用於加速，對於節點列表，請參閱 [節點](../zh-tw/node.html) 章節。
+隨著 FastGit 的成長，我們會擁有更多資源用於加速，請參閱 [節點](../zh-tw/node.html) 章節以獲得節點列表等相關資訊。
 
 ## Web 的使用
 
-對於常見的 GitHub Web 操作， FastGit 的基礎節點也提供了最基礎的支持。您可以直接訪問包含有 Web 支持的節點。出於安全考慮，我們會禁用包括 `Cookie` 以及 `Session` 等敏感權限。這意味著您不能登錄進行操作。
+對於常見的 GitHub Web 操作， FastGit 的基礎節點也提供了最基本的支援。您可以直接訪問包含有 Web 支援的節點。出於安全考慮，我們會禁用包括 `Cookie` 以及 `Session` 等敏感權限。這意味著您不能登錄進行操作。
 
 ## 和源碼存檔的下載
 
 對於正常的 `clone` 、 `push` 操作，FastGit 已經提供了相當完善的操作。對於 Release 和源碼存檔的下載，我們可以使用如下方法進行操作。
 
 ```bash
-# 假設下載鏈接為 https://github.com/A/A/releases/download/1.0/1.0.tar.gz
+# 假設下載連結為 https://github.com/A/A/releases/download/1.0/1.0.tar.gz
 wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 
 # Codeload
-# 假設下載鏈接為h ttps://hub.fastgit.org/A/A/archive/master.zip
+# 假設下載連結為 https://hub.fastgit.org/A/A/archive/master.zip
 # 或者 https://codeload.github.com/A/A/zip/master
 wget https://download.fastgit.org/A/A/archive/master.zip
 ```
@@ -45,7 +45,7 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 ~~我們同樣支持 SSH 克隆，您只需要把地址更換為 fastgit.org 即可。~~
 
-由於不可抗逆因素，我們暫不支持SSH尅隆。
+由於不可抗力因素，我們暫不支持 SSH 克隆。
 
 ### FAQ
 
