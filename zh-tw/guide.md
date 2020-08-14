@@ -29,7 +29,7 @@ git clone https://hub.fastgit.org/author/repo
 
 ## 和源碼存檔的下載
 
-對於正常的 `clone` ， `push` 操作，FastGit 已經提供了相當完善的操作。對於 Release 和源碼存檔的下載，我們可以使用如下方法進行操作。
+對於正常的 `clone` 、 `push` 操作，FastGit 已經提供了相當完善的操作。對於 Release 和源碼存檔的下載，我們可以使用如下方法進行操作。
 
 ```bash
 # 假設下載鏈接為 https://github.com/A/A/releases/download/1.0/1.0.tar.gz
