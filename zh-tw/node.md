@@ -1,4 +1,4 @@
-# 節點 (過時)
+# 節點（過時）
 
 所有節點均為贊助或者我們自費進行購置。
 
@@ -17,7 +17,7 @@
 | github.githubassets.com | fastgit.eastasia.cloudapp.azure.com | assets.fastgit.org | 無 |
 | customer-stories-feed.github.com | fastgit.eastasia.cloudapp.azure.com | customer-stories-feed.fastgit.org | 480 分鐘 |
 
-## API等其他列表
+## API 等其他列表
 
 | 標註 | 節點 | 地址 | 緩存 |
 | ---- | --- | ---- | ---- |
