@@ -1,5 +1,7 @@
 # Privacy Statement
 
+*Effective date: August 15, 2020*
+
 Your privacy is important to us. This privacy statement explains the personal data FastGit processes, how FastGit processes it, and for what purposes.
 
 ## Personal data we collect
