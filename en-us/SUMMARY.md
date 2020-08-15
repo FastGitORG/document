@@ -1,7 +1,0 @@
-* [Home Page](README.md)
-* [Term of Service](tos.md)
-* [Privacy](privacy.md)
-* [User Guide](guide.md)
-* [Nodes](node.md)
-* [Open Source Information](opensource.md)
-* [Sponsor FastGit](sponsor.md)

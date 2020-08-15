@@ -1,3 +1,7 @@
+---
+title: Nodes
+---
+
 # Nodes (OUT OF DATE)
 
 All of our nodes are from the sponsors or purchased by ourselve.
