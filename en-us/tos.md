@@ -12,6 +12,8 @@ We promise that we won't record any of your private information, including your 
 
 You should notice that FastGit has no responsibilities to protect your account's security.
 
+For more information, see [Privacy Statement](privacy.md) section.
+
 ## Service Agreement
 
 We don't support any service guarantee such as Service Level Agreement (SLA).
