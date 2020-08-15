@@ -1,3 +1,7 @@
+---
+title: Privacy
+---
+
 # Privacy Statement
 
 *Effective date: August 15, 2020*

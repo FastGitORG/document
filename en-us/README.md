@@ -1,3 +1,7 @@
+---
+title: Home Page
+---
+
 # FastGit English Document Home Page
 
 Thank you for reading our documents. This is our guidance document.

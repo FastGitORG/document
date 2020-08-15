@@ -1,0 +1,11 @@
+{
+  "name": "fastgit-document",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
