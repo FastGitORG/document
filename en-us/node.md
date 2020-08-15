@@ -4,6 +4,10 @@ title: Nodes
 
 # Nodes (OUT OF DATE)
 
+:::tip TIP
+This page of document is not updated temporarily. The content is out of date.
+:::
+
 All of our nodes are from the sponsors or purchased by ourselve.
 
 ## Node List

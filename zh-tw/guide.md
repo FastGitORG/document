@@ -16,8 +16,9 @@ git clone https://hub.fastgit.org/author/repo
 
 正如您所見， FastGit 僅僅是 GitHub 的代理，所以我們僅僅需要替代遠程地址即可。
 
-> **注意**  
-> 當開啟 2FA 功能後， push 等需要您身份驗證的操作會被拒絕。 （無論您使用連接令牌與否）這是源於 GitHub 自身的規範。
+:::warning 注意
+當開啟 2FA 功能後， push 等需要您身份驗證的操作會被拒絕。 （無論您使用連接令牌與否）這是源於 GitHub 自身的規範。
+:::
 
 我們並不反對對 git 配置的修改以方便您的工作。
 
@@ -46,15 +47,6 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 ~~我們同樣支持 SSH 克隆，您只需要把地址更換為 fastgit.org 即可。~~
 
 由於不可抗力因素，我們暫不支持 SSH 克隆。
-
-### FAQ
-
-**Q:** 為什麼我們不能使用 hub.fastgit.org 進行下載?  
-**A:** 因為我們的 hub.fastgit.org 並不啟用緩存，對於正常的 release 下載需求，不啟用緩存顯得有些奢侈。並且因為 release 下載包含了 301 等情況，目前也沒有辦法靠純 NGINX 配置進行規避。
-（PS: 如果您有辦法，請通過issue的方法告訴我們）。
-
-**Q:** 為什麼我們不能用 download.fastgit.org 進行克隆？  
-**A:** 因為 download.fastgit.org 存在緩存，可能和原始repo存在分割體驗。與此同時，我們為 hub.fastgit.org 添加了 `keep-alive` ，所以速度要比 release 進行克隆要快。
 
 ## 對於 raw 的代理
 

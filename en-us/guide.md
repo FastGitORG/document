@@ -18,8 +18,9 @@ Just like what you see, FastGit is physically a proxy of GitHub, and what you ne
 
 You can also edit `git` configurations to take an easier way to use our service.
 
-> **Note**  
-> You will fail to push or to do other operations which need your authorization after you turn FA2 on. (Whatever you use access token as your password) This is caused by the standardization of GitHub.
+:::warning Note
+You will fail to push or to do other operations which need your authorization after you turn FA2 on. (Whatever you use access token as your password) This is caused by the standardization of GitHub.
+:::
 
 With the growth of FastGit, we will deploy more resources to support our speed-up service. You can find the list of our nodes in the chapter [Nodes](../en-us/node.html).
 
