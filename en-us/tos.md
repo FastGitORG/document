@@ -18,6 +18,10 @@ For more information, see [Privacy Statement](privacy.md) section.
 
 We don't support any service guarantee such as Service Level Agreement (SLA).
 
+## Abuse
+
+When we detect suspected abuse, we will block your IP access indefinitely.
+
 ## Copyright
 
 All of our resources are from the volunteers or other open source projects. Follow the relevant agreements, the copyright of these resources are own by their original authors.
