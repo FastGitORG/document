@@ -1,10 +1,12 @@
 # Term of Service
 
+*Effective date: September 2, 2020*
+
 In the following article, the pronoun "we" represents FastGit.
 
-## Bottom Line
+## Basic
 
-We support firmly the One China principle, and resolutely resist any kind of racist or terrorist content. You must comply with local laws when using our services.
+All users must comply with all local laws and regulations and are obliged to be familiar with and comply with relevant laws and regulations.
 
 ## Privacy
 
