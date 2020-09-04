@@ -51,16 +51,6 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 Due to some unresistible factors, we don't provide SSH clone service.
 
-### FAQ
-
-**Q:** Why can't I download files directly from `hub.fastgit.org`?
-
-**A:** Because there are not having a method to solve the special situations such as HTTP 301 returns during caching releases with only NGINX configurations yet. (PS: If you have an idea, please tell us via `issue` ) Also, we didn't enable cache for `hub.github.com` . If you need to download a release, just use `download.fastgit.org` .
-
-**Q:** Why can't I clone using `download.fastgit.org` ?
-
-**A:** Because we enable cache of `download.github.org` , and there would be a difference between the copy you get from FastGit comparing to the original repo. Anyway, we wouldn't stop you from doing that way. You should notice that we've added `keep-alive` for `hub.github.org` and you can clone over there with usually a faster speed than the release one.
-
 ## For the Raw Proxy
 
 We also have proxy for <https://raw.githubusercontent.com/> .  
