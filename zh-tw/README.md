@@ -16,9 +16,13 @@ FastGit 目前仍處於測試階段。我們會根據實際情況調整服務。
 
 檔案站未即時更新。有關最新檔案，請參閱此[連結](https://github.com/fastgitorg/document)。
 
+## 捐助
+
+![讚賞碼](https://cdn.jsdelivr.net/gh/FastGitORG/Static@6c17d9cd35b8d8eea3bcaee88ab892927d56099a/ZanshangCode_Kevin.png)
+
 ## 聯繫我們
 
 | 聯繫方式 | 地址 |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) <- 暫時停止 |

@@ -16,9 +16,13 @@ FastGit now is under testing. We will adjust the service according to the actual
 
 Document station is not updated in real time. Please refer to [this link](https://github.com/fastgitorg/document) for the latest documentation.
 
+## Donation
+
+![ZanShang Code](https://cdn.jsdelivr.net/gh/FastGitORG/Static@6c17d9cd35b8d8eea3bcaee88ab892927d56099a/ZanshangCode_Kevin.png)
+
 ## Contact us
 
 | Contact | Address |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) <- Fucked-up temporarily |

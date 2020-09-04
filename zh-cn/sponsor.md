@@ -18,9 +18,19 @@ FastGit 的运营离不开任何一个志愿者的支持，如若您想赞助我
 
 请给我们**打钱**，以帮助我们能够正常运营。
 
+![赞赏码](https://cdn.jsdelivr.net/gh/FastGitORG/Static@6c17d9cd35b8d8eea3bcaee88ab892927d56099a/ZanshangCode_Kevin.png)
+
+:::warn 警告
+您的捐赠无法为您获得更多权益。
+:::
+
+:::tip 提示
+您可以凭借有效支付凭证在7天内请求退款。
+:::
+
 ## 联系方式
 
 | 联系方式 | 地址 |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) <- 暂时暴毙 |
