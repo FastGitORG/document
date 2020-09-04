@@ -16,7 +16,7 @@ If you donate us, it would greatly help us on running our FastGit!
 
 ![ZanShang Code](https://cdn.jsdelivr.net/gh/FastGitORG/Static@6c17d9cd35b8d8eea3bcaee88ab892927d56099a/ZanshangCode_Kevin.png)
 
-:::warn Warning
+:::warning Warning
 Donation will not give you benefits.
 :::
 
@@ -29,4 +29,4 @@ You can ask for a refund within 7 days with a valid payment voucher.
 | Contact | Address |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [support@fastgit.org](mailto:support@fastgit.org)   <- Fucked-up temporarily |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) <- Fucked-up temporarily |

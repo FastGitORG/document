@@ -20,7 +20,7 @@ FastGit 的运营离不开任何一个志愿者的支持，如若您想赞助我
 
 ![赞赏码](https://cdn.jsdelivr.net/gh/FastGitORG/Static@6c17d9cd35b8d8eea3bcaee88ab892927d56099a/ZanshangCode_Kevin.png)
 
-:::warn 警告
+:::warning 警告
 您的捐赠无法为您获得更多权益。
 :::
 

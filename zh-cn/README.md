@@ -25,4 +25,4 @@ FastGit 目前仍处于测试阶段。我们会根据实际情况调整服务。
 | 联系方式 | 地址 |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) <- 暂时暴毙 |
