@@ -10,10 +10,12 @@ What should be pay attention to is that documentation is **not** synchronized in
 
 We provide different languages version, here is the list.
 
+- English
+  - [English](../en-us/README.md)
+- Italiano
+  - [Italiano ](../it-it/README.md)
 - 中文
   - [简体中文](../zh-cn/README.md)
   - [繁体中文](../zh-tw/README.md)
-- English
-  - [English](../en-us/README.md)
 
 Now, we are using VuePress to help us generate Markdown file to HTML.
