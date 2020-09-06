@@ -13,7 +13,7 @@ We provide different languages version, here is the list.
 - English
   - [English](../en-us/README.md)
 - Italiano
-  - [Italiano ](../it-it/README.md)
+  - [Italiano](../it-it/README.md)
 - 中文
   - [简体中文](../zh-cn/README.md)
   - [繁体中文](../zh-tw/README.md)
