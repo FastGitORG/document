@@ -14,7 +14,7 @@ FastGit è un mirror speeder open source per GitHub.com. Utilizziamo risorse ape
 
 FastGit è ora in fase di test. Adatteremo il servizio in base alla situazione reale.
 
-La stazione di documentazione non è aggiornata in tempo reale. Si prega di fare riferimento a [questo link](https://github.com/fastgitorg/document) per la documentazione più recente.
+La pagina web di documentazione non è aggiornata in tempo reale. Si prega di fare riferimento a [questo link](https://github.com/fastgitorg/document) per la documentazione più recente.
 
 ## Donazione
 
