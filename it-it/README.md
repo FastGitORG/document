@@ -1,5 +1,5 @@
 ---
-title: Pagina iniziale
+title: Home Page
 ---
 
 # Home Page del documento FastGit in Italiano
