@@ -16,7 +16,7 @@ const locales = {
     label: '繁體中文',
   },
 }
-const sidebar = ['', 'tos', 'privacy', 'guide', 'node', 'opensource', 'sponsor']
+const sidebar = ['', 'tos', 'privacy', 'guide', 'tools', 'node', 'opensource', 'sponsor']
 
 for (const locale of Object.keys(locales)) {
   locales[locale].sidebar = { [locale]: sidebar }
