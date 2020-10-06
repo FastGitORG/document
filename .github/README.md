@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="fastgit" src="https://cdn.jsdelivr.net/gh/FastGitORG/logo@ad87e38c7101537010b3dc6f7d4d52bd1f915002/v2.1.png">
 
-# FastGit Document
+# FastGit Documentation
 
 Hi there! This is the documentation for FastGit.org. To get started, please read it carefully!
 
