@@ -2,13 +2,13 @@
 
 # FastGit Document
 
-Hello, here is document of FastGit.org. To get start, please read our document!
+Hi there! This is the documentation for FastGit.org. To get started, please read it carefully!
 
-What should be pay attention to is that documentation is **not** synchronized in real time.
+One thing to note is that that the documentation is **not** synchronized in real time.
 
-## Multi-language list
+## Languages
 
-We provide different languages versions, here is the list.
+Available languages are listed below:
 
 - English
   - [English](../en-us/README.md)
@@ -18,4 +18,4 @@ We provide different languages versions, here is the list.
   - [简体中文](../zh-cn/README.md)
   - [繁体中文](../zh-tw/README.md)
 
-Now, we are using VuePress to help us generate Markdown file to HTML.
+Proudly using VuePress to convert from Markdown to Website.
