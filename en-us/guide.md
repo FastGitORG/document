@@ -2,13 +2,13 @@
 
 Please read and accept our Term of Service then go to the next step. Once you done so, it means that you agree with our Term of Service.
 
-The usage of FastGit is basically relate on `git` . For common GitHub operations, you can use the command `clone` like:
+The usage of FastGit is basically relied on `git` . For common GitHub operations, you can use the command `clone` like:
 
 ```bash
 git clone https://github.com/author/repo
 ```
 
-To use FastGit, you change it into:
+To use FastGit, you need to change it into:
 
 ```bash
 git clone https://hub.fastgit.org/author/repo
@@ -28,11 +28,11 @@ With the growth of FastGit, we will deploy more resources to support our speed-u
 
 FastGit also supplies basic supports for the common GitHub Web operations. You can directly access nodes with Web supports.
 
-Due to the safety concerns, we banned things which are sensitive, like `Cookie` and `Session` . That means you are not able to do sensitive operations such as signing in GitHub via FastGit.
+Due to the safety concerns, we banned sensitive things, like `Cookie` and `Session` . That means you are not able to do sensitive operations such as signing in GitHub via FastGit.
 
-## Download Releases or Source Code Archive
+## Download Releases or Source Code Archives
 
-For common `clone` and `push` operations, FastGit already have provided perfect support. We can use the command below to download releases & source code archive.
+For common `clone` and `push` operations, FastGit already has provided perfect support. We can use the command below to download releases & source code archives.
 
 ```bash
 # Release
@@ -49,9 +49,9 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 ~~We also support SSH clone. Just replace github.com to fastgit.org to enjoy.~~
 
-Due to some unresistible factors, we don't provide SSH clone service.
+Due to some unresistible factors, we are no longer to provide SSH clone service.
 
 ## For the Raw Proxy
 
-We also have proxy for <https://raw.githubusercontent.com/> .  
-The URL is: <https://raw.fastgit.org/> .
+We also have proxy for <https://raw.githubusercontent.com/>.  
+The URL is: <https://raw.fastgit.org/>.
