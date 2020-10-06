@@ -8,7 +8,7 @@ What should be pay attention to is that documentation is **not** synchronized in
 
 ## Multi-language list
 
-We provide different languages version, here is the list.
+We provide different languages versions, here is the list.
 
 - English
   - [English](../en-us/README.md)
