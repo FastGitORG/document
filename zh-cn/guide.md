@@ -2,7 +2,7 @@
 
 请在同意我们服务条款后，再进行下一步。如若进行，我们将默认视为同意并遵守我们的服务条款。
 
-关于 FastGit 的使用，本质上与 `git` 有关。正常的面向 GitHub 的 `clone` 命令可能如下：
+关于 FastGit 的使用，本质上与 `http` 有关。正常的面向 GitHub 的 `clone` 命令可能如下：
 
 ```bash
 git clone https://github.com/author/repo
@@ -14,7 +14,14 @@ git clone https://github.com/author/repo
 git clone https://hub.fastgit.org/author/repo
 ```
 
-正如您所见， FastGit 仅仅是 GitHub 的代理，所以我们仅仅需要替代远程地址即可。
+正如您所见， FastGit 仅仅是 GitHub 的代理，所以我们仅仅需要替代远程地址。
+
+当然，您也可以直接修改 git 的配置，完全使用 fastgit 替换指向 github 的 http 链接
+
+```bash
+git config --global url."https://hub.fastgit.org/".insteadOf "https://github.com/"
+git protocol.http.allow always
+```
 
 :::warning 注意
 当开启 2FA 功能后， push 等需要您身份验证的操作会被拒绝。（无论您使用连接令牌与否）这是源于 GitHub 自身的规范。
