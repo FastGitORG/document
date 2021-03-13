@@ -2,11 +2,11 @@
 title: Privacy
 ---
 
-# Dichiarazione sulla privacy
+# Termini di servizio
 
 *Data di entrata in vigore: 15 Agosto 2020*
 
-La vostra privacy è importante per noi. Questa dichiarazione sulla privacy spiega i dati personali che FastGit elabora, come FastGit li elabora e per quali scopi.
+La vostra privacy è importante per noi. Questa termini di servizio spiega i dati personali che FastGit elabora, come FastGit li elabora e per quali scopi.
 
 ## Dati personali che raccogliamo
 

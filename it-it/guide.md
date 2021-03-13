@@ -1,6 +1,6 @@
 # Guida per l'utente
 
-Si prega di leggere e accettare il nostro Termine di servizio, quindi passare alla fase successiva. Una volta fatto ciò, significa che siete d'accordo con il nostro Termine del servizio.
+Si prega di leggere e accettare il nostro Termini di servizio e Dichiarazione sulla privacyy, quindi passare alla fase successiva. Una volta fatto ciò, significa che siete d'accordo con il nostro Termini di servizio e Dichiarazione sulla privacy.
 
 L'uso di FastGit è fondamentalmente riferito a `git` . Per le comuni operazioni di GitHub, puoi usare il comando `clone` come:
 

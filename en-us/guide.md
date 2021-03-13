@@ -1,6 +1,6 @@
 # User Guide
 
-Please read and accept our Term of Service then go to the next step. Once you done so, it means that you agree with our Term of Service.
+Please read and accept our Term of Service and Privacy Statement then go to the next step. Once you done so, it means that you agree with our Term of Service and Privacy Statement.
 
 The usage of FastGit is basically relied on `git` . For common GitHub operations, you can use the command `clone` like:
 
