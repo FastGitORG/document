@@ -14,7 +14,18 @@ git clone https://github.com/author/repo
 git clone https://hub.fastgit.org/author/repo
 ```
 
-正如您所見， FastGit 僅僅是 GitHub 的代理，所以我們僅僅需要替代遠程地址即可。
+正如您所見， FastGit 僅僅是 GitHub 的代理，所以我們僅需要替代遠程地址即可。
+
+您還可以直接更改git的配置，用FastGit完全替換GitHub的鏈接：
+
+```bash
+git config --global url."https://hub.fastgit.org/".insteadOf "https://github.com/"
+git protocol.http.allow always
+```
+
+:::warning 注意
+解決網絡錯誤時，不要忘記檢查 FastGit 是否不可用,即使我們提供高達 0% 的 SLA 保證。
+:::
 
 :::warning 注意
 當開啟 2FA 功能後， push 等需要您身份驗證的操作會被拒絕。 （無論您使用連接令牌與否）這是源於 GitHub 自身的規範。

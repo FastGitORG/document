@@ -18,6 +18,17 @@ Just like what you see, FastGit is physically a proxy of GitHub, and what you ne
 
 You can also edit `git` configurations to take an easier way to use our service.
 
+You can also change the configuration of `git` directly, replacing the link of GitHub entirely with FastGit:
+
+```bash
+git config --global url."https://hub.fastgit.org/".insteadOf "https://github.com/"
+git protocol.http.allow always
+```
+
+:::warning Note
+Don't forget to check if FastGit is down when you are troubleshooting network errors, even though we offer SLA guarantees of up to 0% availability.
+:::
+
 :::warning Note
 You will fail to push or to do other operations which need your authorization after you turn FA2 on. (Whatever you use access token as your password) This is caused by the standardization of GitHub.
 :::
