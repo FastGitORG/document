@@ -66,3 +66,17 @@ Due to some unresistible factors, we are no longer to provide SSH clone service.
 
 We also have proxy for <https://raw.githubusercontent.com/>.  
 The URL is: <https://raw.fastgit.org/>.
+
+## What to do if you have problems with FastGit
+
+1. Make sure your network and DNS are working properly
+2. Please check <https://status.fastgit.org> and <https://github.com/FastGitORG/uptime> to confirm if FastGit is facing potential service unavailability
+3. Change your DNS to AliPublic public DNS to avoid potential DNS pollution issues
+4. Try to communicate with the FastGit IP via Tcpping
+
+When you have confirm that FastGit is or is potentially unavailable, please contact us.
+You can communicate us by sending an email to [admin@fastgit.org](mailto:admin@fastgit.org), opening an issue to our discussion <https://github.com/FastGitORG/discussion>, or via the Telegram instant messaging group [@FastGit](https://t.me/fastgit).
+
+:::tip Tip
+It is important to note that PING does not determine if a server is unavailable. We recommend using Tcpping to detect port 443.
+:::

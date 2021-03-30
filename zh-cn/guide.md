@@ -63,3 +63,17 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 ## 对于 raw 的代理
 
 我们同样对 <https://raw.githubusercontent.com/> 进行了代理，地址为 <https://raw.fastgit.org/>。
+
+## 当遇到 FastGit 存在问题时的处理方法
+
+1. 请确认你的网路以及 DNS 工作正常
+2. 请查阅 <https://status.fastgit.org> 以及 <https://github.com/FastGitORG/uptime> 以确认 FastGit 是否正面临潜在的服务不可用可能性
+3. 更换阿里公共 DNS 避免潜在的 DNS 污染问题
+4. 通过 Tcpping 尝试与 FastGit IP进行通信
+
+当您确认 FastGit 正在或者潜在面临不可用情景，请与我们取得联系。
+你可以通过发送邮箱至 [admin@fastgit.org](mailto:admin@fastgit.org)，前往我们的讨论区域 <https://github.com/FastGitORG/discussion> 发送issue，或者通过 Telegram 即时通讯群组 [@FastGit](https://t.me/fastgit) 与我们取得联系。
+
+:::tip 小贴士
+需要注意一点，PING 并不能判断服务器是否不可用。我们推荐使用 Tcpping 检测 443 端口。
+:::

@@ -62,7 +62,21 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 A causa di alcuni fattori irrefrenabili, non forniamo il servizio di clonazione SSH.
 
-## Per il proxy grezzo
+## Per il proxy raw
 
 Abbiamo anche il proxy per <https://raw.githubusercontent.com/> .  
 L'URL è: <https://raw.fastgit.org/> .
+
+## Cosa fare se hai problemi con FastGit
+
+1. Assicurati che la tua rete e il tuo DNS funzionino correttamente
+2. Controlla <https://status.fastgit.org> e <https://github.com/FastGitORG/uptime> per confermare se FastGit sta affrontando una potenziale indisponibilità del servizio
+3. Cambia il tuo DNS al DNS pubblico AliPublic per evitare potenziali problemi di inquinamento del DNS
+4. Prova a comunicare con l'IP di FastGit tramite Tcpping
+
+Quando hai la conferma che FastGit è o è potenzialmente indisponibile, contattaci.
+Puoi comunicarci inviando un'email a [admin@fastgit.org](mailto:admin@fastgit.org), aprendo un problema alla nostra discussione <https://github.com/FastGitORG/discussion>, o tramite il gruppo di messaggistica istantanea Telegram [@FastGit](https://t.me/fastgit).
+
+:::tip Suggerimento
+È importante notare che il PING non determina se un server non è disponibile. Si consiglia di utilizzare Tcpping per rilevare la porta 443.
+:::
