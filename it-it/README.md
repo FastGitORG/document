@@ -26,4 +26,4 @@ La pagina web di documentazione non è aggiornata in tempo reale. Si prega di fa
 | Contatto | Indirizzo |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) <- temporaneamente fottuto |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |
