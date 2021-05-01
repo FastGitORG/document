@@ -11,7 +11,7 @@ One thing to note is that that the documentation is **not** synchronized in real
 Available languages are listed below:
 
 - English
-  - [English](../en-us/README.md)
+  - [English](../en-gb/README.md)
 - Italiano
   - [Italiano](../it-it/README.md)
 - 中文

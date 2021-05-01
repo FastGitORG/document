@@ -33,7 +33,7 @@ Don't forget to check if FastGit is down when you are troubleshooting network er
 You will fail to push or to do other operations which need your authorization after you turn FA2 on. (Whatever you use access token as your password) This is caused by the standardization of GitHub.
 :::
 
-With the growth of FastGit, we will deploy more resources to support our speed-up service. You can find the list of our nodes in the chapter [Nodes](../en-us/node.html).
+With the growth of FastGit, we will deploy more resources to support our speed-up service. You can find the list of our nodes in the chapter [Nodes](../en-gb/node.html).
 
 ## The Usage of Web
 

@@ -1,5 +1,5 @@
 const locales = {
-  '/en-us/': {
+  '/en-gb/': {
     selectText: 'Languages 🌐',
     label: 'English',
   },
@@ -26,8 +26,8 @@ module.exports = {
   title: 'FastGit',
   description: 'FastGit Document Center',
   locales: {
-    '/en-us/': {
-      lang: 'en-US',
+    '/en-gb/': {
+      lang: 'en-GB',
     },
     '/it-it/': {
       lang: 'it-IT',
