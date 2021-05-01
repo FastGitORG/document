@@ -8,6 +8,8 @@ Nel seguente articolo, il pronome "noi" rappresenta FastGit.
 
 Tutti gli utenti devono rispettare tutte le leggi e i regolamenti locali e sono obbligati a conoscere e rispettare le leggi e i regolamenti pertinenti.
 
+In conformità con le leggi e i regolamenti pertinenti, il nostro servizio non è disponibile per gli utenti dell'UE e del Regno Unito.
+
 ## Privacy
 
 Promettiamo che non registreremo nessuna delle vostre informazioni private, inclusi il vostro `Cookie` e la vostra `Session`. Inoltre, non interferiremo con nessuno dei vostri progetti privati. Per esempio, dovreste decidere se usare l'auto-avviamento per i sorgenti di cache relativi al rilascio.

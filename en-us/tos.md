@@ -8,6 +8,8 @@ In the following article, the pronoun "we" represents FastGit.
 
 All users must comply with all local laws and regulations and are obliged to be familiar with and comply with relevant laws and regulations.
 
+In accordance with the relevant laws and regulations, our service is not available to users in the EU and the UK.
+
 ## Privacy
 
 We promise that we won't record any of your private information, including your `Cookie` and `Session` . Also, we won't interfere with any of your private projects. For example, you should decide whether to use self-starting for the Release related cache sources.
