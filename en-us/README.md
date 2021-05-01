@@ -27,4 +27,4 @@ Document station is not updated in real time. Please refer to [this link](https:
 | Contact | Address |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) <- Fucked-up temporarily |
+| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |
