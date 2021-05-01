@@ -20,7 +20,7 @@ git clone https://hub.fastgit.org/author/repo
 
 ```bash
 git config --global url."https://hub.fastgit.org/".insteadOf "https://github.com/"
-git protocol.http.allow always
+git config protocol.https.allow always
 ```
 
 :::warning 注意
