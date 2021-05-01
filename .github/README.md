@@ -4,14 +4,14 @@
 
 Hi there! This is the documentation for FastGit.org. To get started, please read it carefully!
 
-One thing to note is that that the documentation is **not** synchronized in real time.
+One thing to note is that that the documentation is **not** synchronised in real time.
 
 ## Languages
 
 Available languages are listed below:
 
 - English
-  - [English](../en-us/README.md)
+  - [English](../en-gb/README.md)
 - Italiano
   - [Italiano](../it-it/README.md)
 - 中文
