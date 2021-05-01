@@ -28,4 +28,4 @@ FastGit 目前仍处于测试阶段。我们会根据实际情况调整服务。
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
 | E-Mail | [admin@fastgit.org](mailto:admin@fastgit.org) |
-| PGP | [020B 3AA0 7544 D004 806B D325 635B D4CA DD45 BD31](https://github.com/FastGitORG/PGP) |
+| PGP | [020B 3AA0 7544 D004 806B D325 635B D4CA DD45 BD31](https://raw.githubusercontent.com/FastGitORG/PGP/main/public.asc) |
