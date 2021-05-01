@@ -24,7 +24,7 @@ for (const locale of Object.keys(locales)) {
 
 module.exports = {
   title: 'FastGit',
-  description: 'FastGit Document Center',
+  description: 'FastGit Document Centre',
   locales: {
     '/en-gb/': {
       lang: 'en-GB',
