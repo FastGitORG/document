@@ -22,7 +22,7 @@ Puoi anche cambiare la configurazione di `git` direttamente, sostituendo il link
 
 ```bash
 git config --global url."https://hub.fastgit.org/".insteadOf "https://github.com/"
-git protocol.http.allow always
+git config protocol.https.allow always
 ```
 
 :::warning Nota
