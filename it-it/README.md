@@ -26,5 +26,5 @@ La pagina web di documentazione non è aggiornata in tempo reale. Si prega di fa
 | Contatto | Indirizzo |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [support@fastgit.org](mailto:support@fastgit.org) |
+| E-Mail | [admin@fastgit.org](mailto:admin@fastgit.org)                |
 | PGP | [020B 3AA0 7544 D004 806B D325 635B D4CA DD45 BD31](https://raw.githubusercontent.com/FastGitORG/PGP/main/public.asc) |
