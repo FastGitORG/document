@@ -4,5 +4,7 @@ node_modules
 # VuePress files
 .vuepress/dist
 
-# Visual Studio files
+# IDE files
 .vs
+.vscode
+.idea
