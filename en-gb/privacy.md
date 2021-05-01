@@ -20,7 +20,7 @@ FastGit uses the data we collect to provide you with rich, interactive experienc
 
 - Provide our products, which including data analysis, server sourcing as well as providing support.
 - Improve our products and develop new ones.
-- Personalize our products and make recommendations for you.
+- Personalise our products and make recommendations for you.
 
 ## Sharing your personal data
 
