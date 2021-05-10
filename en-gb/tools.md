@@ -13,6 +13,7 @@ A git helper.
 | fgit-go | <https://github.com/FastGitORG/fgit-go> | [@KevinZonda](https://github.com/KevinZonda) |
 | fgit-nodejs | <https://github.com/FastGitORG/fgit-nodejs> | [@lihai2333](https://github.com/lihai2333) |
 | fgit-rs | <https://github.com/FastGitORG/fgit-rs> | [@batkiz](https://github.com/batkiz) |
+| FastGit.Tool.FGit | <https://github.com/FastGitORG/FastGit.Tool.FGit> | [@Rwing](https://github.com/Rwing) |
 
 ## FastGit.user.js
 
