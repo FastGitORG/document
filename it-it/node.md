@@ -12,7 +12,7 @@ Tutti i nostri nodi sono degli sponsor o acquistati dai nostri dodici.
 
 ## Elenco Nodi
 
-|  Indirizzo del nodo | ISP | Regione | Supporto Web | Note |
+| Indirizzo del nodo | ISP | Regione | Supporto Web | Note |
 | ------- | --- | ---- | ------- | --- |
 | fastgit.eastasia.cloudapp.azure.com | Microsoft Azure | Asia orientale | Sì | Nodo ufficiale FastGit |
 
@@ -29,4 +29,4 @@ Tutti i nostri nodi sono degli sponsor o acquistati dai nostri dodici.
 
 | Tag | Nodo | Indirizzo | Intervallo cache |
 | ---- | --- | ---- | ---- |
-| Github Download | fastgit.eastasia.cloudapp.azure.com | download.fastgit.org | 480 mins |
+| Github Download | fastgit.eastasia.cloudapp.azure.com | download.fastgit.org | 480 minuti |
