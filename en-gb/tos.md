@@ -1,6 +1,6 @@
 # Term of Service
 
-*Effective date: September 2, 2020*
+*Effective date: 2 September, 2020*
 
 In the following article, the pronoun "we" represents FastGit.
 
