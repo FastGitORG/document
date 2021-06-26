@@ -60,7 +60,13 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 ~~We also support SSH clone. Just replace github.com to fastgit.org to enjoy.~~
 
-Due to some unresistible factors, we are no longer to provide SSH clone service.
+~~Due to some unresistible factors, we are no longer to provide SSH clone service.~~
+
+26/06/2021 Update: As the 2FA issue persists, it is difficult to get much done via HTTPS. In view of the current situation, we have continued the SSH operation service.
+
+Unlike before, we have split the domain where the SSH service is located, in other words it is not possible to work by replacing the address with FastGit.org.
+
+Our SSH operation address is **ssh.fastgit.org**, and we can speed things up by simply replacing the address.
 
 ## For the Raw Proxy
 
