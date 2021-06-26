@@ -56,11 +56,17 @@ wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 wget https://download.fastgit.org/A/A/archive/master.zip
 ```
 
-## SSH Clone
+## SSH Operazione
 
 ~~Supportiamo anche il clone SSH. Basta sostituire github.com a fastgit.org per godere.~~~
 
-A causa di alcuni fattori irrefrenabili, non forniamo il servizio di clonazione SSH.
+~~A causa di alcuni fattori irrefrenabili, non forniamo il servizio di clonazione SSH.~~
+
+26/06/2021 Aggiornamento: Poiché il problema 2FA persiste, è difficile ottenere molto tramite HTTPS. Vista la situazione attuale, abbiamo continuato il servizio di funzionamento SSH.
+
+A differenza di prima, abbiamo diviso il dominio dove si trova il servizio SSH, in altre parole non è possibile lavorare sostituendo l'indirizzo con FastGit.org.
+
+Il nostro indirizzo di funzionamento SSH è **ssh.fastgit.org**, e possiamo velocizzare le cose semplicemente sostituendo l'indirizzo.
 
 ## Per il proxy raw
 

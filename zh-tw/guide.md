@@ -53,17 +53,23 @@ wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 wget https://download.fastgit.org/A/A/archive/master.zip
 ```
 
-## SSH 克隆
+## SSH 操作
 
 ~~我們同樣支持 SSH 克隆，您只需要把地址更換為 fastgit.org 即可。~~
 
-由於不可抗力因素，我們暫不支持 SSH 克隆。
+~~由於不可抗力因素，我們暫不支持 SSH 克隆。~~
+
+26/06/2021 更新：由於 2FA 問題持續存在，所以我們很難以通過 HTTPS 的方法完成很多事。鑑於目前情況，我們繼續開放了 SSH 操作入口。
+
+與之前不同，我們拆分了 SSH 服務所在的域名，換句話說並不能通過替換地址為 FastGit.org 完成操作。
+
+目前我們的 SSH 克隆地址為 **ssh.fastgit.org**。只需要修正地址即可完成加速。
 
 ## 對於 raw 的代理
 
 我們同樣對 <https://raw.githubusercontent.com/> 進行了代理，地址為 <https://raw.fastgit.org/>。
 
-##當遇到 FastGit 存在問題時的處理方法
+## 當遇到 FastGit 存在問題時的處理方法
 
 1. 請確認你的網路以及 DNS 工作正常
 2. 請查閱 <https://status.fastgit.org> 以及 <https://github.com/FastGitORG/uptime> 以確認 FastGit 是否正面臨潛在的服務不可用可能性
