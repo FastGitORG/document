@@ -66,7 +66,7 @@ wget https://download.fastgit.org/A/A/archive/master.zip
 
 A differenza di prima, abbiamo diviso il dominio dove si trova il servizio SSH, in altre parole non è possibile lavorare sostituendo l'indirizzo con FastGit.org.
 
-Il nostro indirizzo di funzionamento SSH è ssh.fastgit.org, e possiamo velocizzare le cose semplicemente sostituendo l'indirizzo.
+Il nostro indirizzo di funzionamento SSH è **ssh.fastgit.org**, e possiamo velocizzare le cose semplicemente sostituendo l'indirizzo.
 
 ## Per il proxy raw
 
