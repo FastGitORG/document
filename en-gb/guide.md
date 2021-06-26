@@ -56,7 +56,7 @@ wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 wget https://download.fastgit.org/A/A/archive/master.zip
 ```
 
-## SSH Clone
+## SSH Operation
 
 ~~We also support SSH clone. Just replace github.com to fastgit.org to enjoy.~~
 
