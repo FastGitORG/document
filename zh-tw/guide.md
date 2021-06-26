@@ -53,7 +53,7 @@ wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 wget https://download.fastgit.org/A/A/archive/master.zip
 ```
 
-## SSH 克隆
+## SSH 操作
 
 ~~我們同樣支持 SSH 克隆，您只需要把地址更換為 fastgit.org 即可。~~
 
