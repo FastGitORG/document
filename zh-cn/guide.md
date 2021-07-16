@@ -2,21 +2,21 @@
 
 请在同意我们服务条款和隐私协议后，再进行下一步。如若进行，我们将默认视为同意并遵守我们的服务条款和隐私协议。
 
-关于 FastGit 的使用，本质上与 `git` 有关。正常的面向 GitHub 的 `clone` 命令可能如下：
+关于 FastGit 的使用，本质上与 `git` 有关。常规的面向 GitHub 的 `clone` 命令可能如下：
 
 ```bash
 git clone https://github.com/author/repo
 ```
 
-对于使用 FastGit 的情况，我们使用如下命令：
+使用 FastGit 时，可使用如下命令：
 
 ```bash
 git clone https://hub.fastgit.org/author/repo
 ```
 
-正如您所见， FastGit 仅仅是 GitHub 的代理，所以我们仅需要替代远程地址。
+正如您所见， FastGit 仅仅是 GitHub 的代理，所以我们仅需要替换远程地址。
 
-当然，您也可以直接修改 `git` 的配置，完全使用 FastGit 替换指向 GitHub 的链接：
+当然，您也可以直接修改 `git` 的配置，使用 FastGit 替换所有指向 GitHub 的链接：
 
 ```bash
 git config --global url."https://hub.fastgit.org/".insteadOf "https://github.com/"
