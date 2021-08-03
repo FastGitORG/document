@@ -12,7 +12,7 @@ In accordance with the relevant laws and regulations, our service is not availab
 
 ## Privacy
 
-We promise that we won't record any of your private information, including your `Cookie` and `Session` . Also, we won't interfere with any of your private projects. For example, you should decide whether to use self-starting for the Release related cache sources.
+We promise that we will not record any of your private information, including your `Cookie` and `Session` . Also, we won't interfere with any of your private projects. For example, you should decide whether to use self-starting for the Release related cache sources.
 
 You should notice that FastGit has no responsibilities to protect your account's security.
 
@@ -20,7 +20,7 @@ For more information, see [Privacy Statement](privacy.md) section.
 
 ## Service Agreement
 
-We don't support any service guarantee such as Service Level Agreement (SLA).
+We do not support any service guarantee such as Service Level Agreement (SLA).
 
 ## Abuse
 
