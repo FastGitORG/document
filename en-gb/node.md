@@ -1,32 +1,14 @@
 ---
-title: Nodes
+title: Reverse Proxy List
 ---
 
-# Nodes (OUT OF DATE)
+# Reverse Proxy List
 
-:::tip TIP
-This page of document is not updated temporarily. The content is out of date.
-:::
-
-All of our nodes are from the sponsors or purchased by ourselve.
-
-## Node List
-
-| Node Address | ISP | Region | Web Support | Notes |
-| ------- | --- | ---- | ------- | --- |
-| fastgit.eastasia.cloudapp.azure.com | Microsoft Azure | East Asia | Yes | FastGit Official Node |
-
-## Reverse Proxy List
-
-| Source | Node | Address | Cache Interval |
-| ---- | --- | ---- | ---- |
-| github.com | fastgit.eastasia.cloudapp.azure.com | hub.fastgit.org | N/A |
-| raw.githubusercontent.com | fastgit.eastasia.cloudapp.azure.com | raw.fastgit.org | N/A |
-| github.githubassets.com | fastgit.eastasia.cloudapp.azure.com | assets.fastgit.org | N/A |
-| customer-stories-feed.github.com | fastgit.eastasia.cloudapp.azure.com | customer-stories-feed.fastgit.org | 480 mins |
-
-## API and Other Lists
-
-| Tag | Node | Address | Cache Interval |
-| ---- | --- | ---- | ---- |
-| Github Download | fastgit.eastasia.cloudapp.azure.com | download.fastgit.org | 480 mins |
+| Source                           | Address                           | Cache Interval |
+| -------------------------------- | --------------------------------- | -------------- |
+| github.com                       | hub.fastgit.org                   | N/A            |
+| raw.githubusercontent.com        | raw.fastgit.org                   | N/A            |
+| github.githubassets.com          | assets.fastgit.org                | N/A            |
+| customer-stories-feed.github.com | customer-stories-feed.fastgit.org | 480 mins       |
+| Github Download                  | download.fastgit.org              | 480 mins       |
+| GitHub Archive                   | archive.fastgit.org               | N/A            |
