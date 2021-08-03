@@ -1,7 +1,7 @@
 <template>
   <div>
     <component :is="layout" />
-    <footer>Copyright © FastGit {{ new Date().getFullYear() }}</footer>
+    <footer>Copyright © FastGit UK {{ new Date().getFullYear() }}</footer>
   </div>
 </template>
 
