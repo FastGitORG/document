@@ -33,6 +33,10 @@ Don't forget to check if FastGit is down when you are troubleshooting network er
 You will fail to push or to do other operations which need your authorisation after you turn FA2 on. (Whatever you use access token as your password) This is caused by the standardisation of GitHub.
 :::
 
+:::warning Note
+We do NOT support that clone repositories which are over 2GiB. Read more <https://github.com/FastGitORG/nginx-conf/issues/14> and <https://github.com/FastGitORG/nginx-conf/commit/61a41bc0bbb012fc9a6e54b198a10874eeaf9309>.
+:::
+
 With the growth of FastGit, we will deploy more resources to support our speed-up service. You can find the list of our nodes in the chapter [Nodes](../en-gb/node.html).
 
 ## The Usage of Web

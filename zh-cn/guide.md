@@ -31,6 +31,10 @@ git config protocol.https.allow always
 当开启 2FA 功能后， push 等需要您身份验证的操作会被拒绝。（无论您使用连接令牌与否）这是源于 GitHub 自身的规范。
 :::
 
+:::warning 注意
+我们暂时不支持超过 2GiB 的仓库的 `clone`，请参阅 <https://github.com/FastGitORG/nginx-conf/issues/14> 与 <https://github.com/FastGitORG/nginx-conf/commit/61a41bc0bbb012fc9a6e54b198a10874eeaf9309>。
+:::
+
 我们并不反对对 git 配置的修改以方便您的工作。
 
 随着 FastGit 的成长，我们会拥有更多资源用于加速，对于节点列表，请参阅 [节点](../zh-cn/node.html) 章节。

@@ -33,6 +33,10 @@ Non dimentichi di controllare se FastGit è giù quando risolve errori di rete, 
 Dopo l'accensione dell'FA2 non riuscirete a spingere o a fare altre operazioni che richiedono la vostra autorizzazione. (Qualunque sia il token di accesso utilizzato come password) Questo è causato dalla standardizzazione di GitHub.
 :::
 
+:::warning Nota
+NON supportiamo i repository clonati che superano i 2GiB. Leggi di più <https://github.com/FastGitORG/nginx-conf/issues/14> e <https://github.com/FastGitORG/nginx-conf/commit/61a41bc0bbb012fc9a6e54b198a10874eeaf9309>.
+:::
+
 Con la crescita di FastGit, dispiegheremo più risorse per supportare il nostro servizio di velocizzazione. Puoi trovare la lista dei nostri nodi nel capitolo [Nodes](../it-it/node.html).
 
 ## L'uso del Web
