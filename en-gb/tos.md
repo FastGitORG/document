@@ -8,7 +8,7 @@ In the following article, the pronoun "we" represents FastGit.
 
 All users must comply with all local laws and regulations and are obliged to be familiar with and comply with relevant laws and regulations.
 
-In accordance with the relevant laws and regulations, our service is not available to users in the EU and the UK.
+In accordance with the relevant laws and regulations, our service is not available to users in the EU, the UK and California, US.
 
 ## Privacy
 

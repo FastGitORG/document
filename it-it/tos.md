@@ -8,7 +8,7 @@ Nel seguente articolo, il pronome "noi" rappresenta FastGit.
 
 Tutti gli utenti devono rispettare tutte le leggi e i regolamenti locali e sono obbligati a conoscere e rispettare le leggi e i regolamenti pertinenti.
 
-In conformità con le leggi e i regolamenti pertinenti, il nostro servizio non è disponibile per gli utenti dell'UE e del Regno Unito.
+In conformità con le leggi e i regolamenti pertinenti, questo sito non è disponibile per gli utenti dell'Unione Europea, del Regno Unito e degli Stati Uniti della California.
 
 ## Privacy
 
