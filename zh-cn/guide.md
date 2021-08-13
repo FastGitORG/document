@@ -28,7 +28,7 @@ git config protocol.https.allow always
 :::
 
 :::warning 注意
-当开启 2FA 功能后， push 等需要您身份验证的操作会被拒绝。（无论您使用连接令牌与否）这是源于 GitHub 自身的规范。
+当开启 2FA 功能后， push 等需要您身份验证的操作会被拒绝，除非您使用[连接令牌](https://github.com/settings/tokens)。
 :::
 
 :::warning 注意

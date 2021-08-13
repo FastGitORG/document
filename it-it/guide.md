@@ -30,7 +30,7 @@ Non dimentichi di controllare se FastGit è giù quando risolve errori di rete, 
 :::
 
 :::warning Nota
-Dopo l'accensione dell'FA2 non riuscirete a spingere o a fare altre operazioni che richiedono la vostra autorizzazione. (Qualunque sia il token di accesso utilizzato come password) Questo è causato dalla standardizzazione di GitHub.
+Non riuscirete a spingere o a fare altre operazioni che richiedono la vostra autorizzazione dopo aver acceso FA2, a meno che non usiate il [token di accesso](https://github.com/settings/tokens) come password.
 :::
 
 :::warning Nota
