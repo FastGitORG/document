@@ -4,7 +4,7 @@
 
 Hi there! This is the documentation for FastGit.org. To get started, please read it carefully!
 
-One thing to note is that that the documentation is **not** synchronised in real time.
+One thing to note is that the documentation is **NOT** synchronised in real time.
 
 ## Languages
 
