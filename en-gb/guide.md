@@ -30,7 +30,7 @@ Don't forget to check if FastGit is down when you are troubleshooting network er
 :::
 
 :::warning Note
-You will fail to push or to do other operations which need your authorisation after you turn FA2 on. (Whatever you use access token as your password) This is caused by the standardisation of GitHub.
+You will fail to push or to do other operations which need your authorisation after you turn FA2 on unless using [access token](https://github.com/settings/tokens) as your password.
 :::
 
 :::warning Note
