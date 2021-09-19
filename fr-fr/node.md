@@ -1,14 +1,14 @@
 ---
-title: 反代列表
+title: Liste de proxy
 ---
 
-# 反代列表
+# Liste de proxy
 
-| 站源                             | 地址                              | 缓存     |
-| -------------------------------- | --------------------------------- | -------- |
-| github.com                       | hub.fastgit.org                   | 无       |
-| raw.githubusercontent.com        | raw.fastgit.org                   | 无       |
-| github.githubassets.com          | assets.fastgit.org                | 无       |
-| customer-stories-feed.github.com | customer-stories-feed.fastgit.org | 480 分钟 |
-| Github Download                  | download.fastgit.org              | 480 分钟 |
-| GitHub Archive                   | archive.fastgit.org               | 无       |
+| Source                           | Addresse                          | Cache                |
+| -------------------------------- | --------------------------------- | -------------------- |
+| github.com                       | hub.fastgit.org                   | Non disponible       |
+| raw.githubusercontent.com        | raw.fastgit.org                   | Non disponible       |
+| github.githubassets.com          | assets.fastgit.org                | Non disponible       |
+| customer-stories-feed.github.com | customer-stories-feed.fastgit.org | 480 minutes          |
+| Github Download                  | download.fastgit.org              | 480 minutes          |
+| GitHub Archive                   | archive.fastgit.org               | Non disponible       |
