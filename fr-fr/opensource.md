@@ -1,12 +1,12 @@
 ---
-title: 开源信息
+title: Information de code source ouvert
 ---
 
-# 开源信息
+# Information de code source ouvert
 
-对于我们使用的相关项目的修改版本，我们会尽全力展示出来。
+Nous ferons de notre mieux pour démontrer les versions modifiées des projets que nous utilisons.
 
-| 源项目 | 开源协议 | 我们的地址 |
+| Projet original | Licence Open Source | Notre lien |
 | ------ | ------- | ---------- |
 | [XGFan/ghproxy](https://github.com/XGFan/ghproxy) | no-license | [FastGitORG/download](https://github.com/FastGitORG/download) |
 | [zhj3618/gitbook-plugin-tbfed-pagefooter](https://github.com/zhj3618/gitbook-plugin-tbfed-pagefooter) | Apache-2.0 | [FastGitORG/gitbook-plugin-tbfed-pagefooter](https://github.com/FastGitORG/gitbook-plugin-tbfed-pagefooter) |
