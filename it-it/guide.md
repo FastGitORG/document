@@ -30,10 +30,6 @@ Non dimentichi di controllare se FastGit è giù quando risolve errori di rete, 
 :::
 
 :::warning Nota
-Non riuscirete a spingere o a fare altre operazioni che richiedono la vostra autorizzazione dopo aver acceso FA2, a meno che non usiate il [token di accesso](https://github.com/settings/tokens) come password.
-:::
-
-:::warning Nota
 NON supportiamo i repository clonati che superano i 2GiB. Leggi di più <https://github.com/FastGitORG/nginx-conf/issues/14> e <https://github.com/FastGitORG/nginx-conf/commit/61a41bc0bbb012fc9a6e54b198a10874eeaf9309>.
 :::
 
