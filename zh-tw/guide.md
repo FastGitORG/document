@@ -28,11 +28,6 @@ git config protocol.https.allow always
 :::
 
 :::warning 注意
-當開啟 2FA 功能後， push 等需要您身份驗證的操作會被拒絕，除非您使用[連接令牌](https://github.com/settings/tokens)。
-:::
-
-
-:::warning 注意
 我們暫時不支持超過 2GiB 的倉庫的 `clone`，請參閱 <https://github.com/FastGitORG/nginx-conf/issues/14> 与 <https://github.com/FastGitORG/nginx-conf/commit/61a41bc0bbb012fc9a6e54b198a10874eeaf9309>>。
 :::
 
