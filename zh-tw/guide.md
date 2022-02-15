@@ -3,7 +3,7 @@
 請在同意我們的服務條款和隱私協議後，再進行下一步。如若進行，我們將默認視為同意並遵守我們的服務條款和隱私協議。
 
 ::: danger 
-由於不可抗逆的因素，我們已經將我們的樞紐鏈接從 hub.fastgit,org 更新到 hub.fastgit.xyz。
+由於不可抗逆的因素，我們已經將我們的樞紐鏈接從 hub.fastgit.org 更新到 hub.fastgit.xyz。
 :::
 
 關於 FastGit 的使用，本質上與 `git` 有關。正常的面向 GitHub 的 `clone` 命令可能如下：

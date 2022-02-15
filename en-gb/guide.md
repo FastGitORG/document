@@ -3,7 +3,7 @@
 Please read and accept our Term of Service and Privacy Statement then go to the next step. Once you done so, it means that you agree with our Term of Service and Privacy Statement.
 
 ::: danger
-Due to irreversible factors, we have updated our hub link from hub.fastgit,org to hub.fastgit.xyz.
+Due to irreversible factors, we have updated our hub link from hub.fastgit.org to hub.fastgit.xyz.
 :::
 
 The usage of FastGit is basically relied on `git` . For common GitHub operations, you can use the command `clone` like:
