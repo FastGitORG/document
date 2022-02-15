@@ -11,7 +11,7 @@ git clone https://github.com/author/repo
 Per usare FastGit, lo si cambia in:
 
 ```bash
-git clone https://hub.fastgit.org/author/repo
+git clone https://hub.fastgit.xyz/author/repo
 ```
 
 Proprio come quello che vedi, FastGit è fisicamente un proxy di GitHub, e quello che devi fare è semplicemente sostituire l'URL.
@@ -21,7 +21,7 @@ Puoi anche modificare le configurazioni di `git` per prendere un modo più sempl
 Puoi anche cambiare la configurazione di `git` direttamente, sostituendo il link di GitHub interamente con FastGit:
 
 ```bash
-git config --global url."https://hub.fastgit.org/".insteadOf "https://github.com/"
+git config --global url."https://hub.fastgit.xyz/".insteadOf "https://github.com/"
 git config protocol.https.allow always
 ```
 
@@ -51,7 +51,7 @@ Per le comuni operazioni di "clone" e "push", FastGit ha già fornito un support
 wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 
 # Codeload
-# Se il vostro link per il download è: https://hub.fastgit.org/A/A/archive/master.zip
+# Se il vostro link per il download è: https://hub.fastgit.xyz/A/A/archive/master.zip
 # o https://codeload.github.com/A/A/zip/master
 wget https://download.fastgit.org/A/A/archive/master.zip
 ```

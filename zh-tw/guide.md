@@ -11,7 +11,7 @@ git clone https://github.com/author/repo
 對於使用 FastGit 的情況，我們使用如下命令：
 
 ```bash
-git clone https://hub.fastgit.org/author/repo
+git clone https://hub.fastgit.xyz/author/repo
 ```
 
 正如您所見， FastGit 僅僅是 GitHub 的代理，所以我們僅需要替代遠程地址即可。
@@ -19,7 +19,7 @@ git clone https://hub.fastgit.org/author/repo
 您還可以直接更改git的配置，用FastGit完全替換GitHub的鏈接：
 
 ```bash
-git config --global url."https://hub.fastgit.org/".insteadOf "https://github.com/"
+git config --global url."https://hub.fastgit.xyz/".insteadOf "https://github.com/"
 git config protocol.https.allow always
 ```
 
@@ -48,7 +48,7 @@ git config protocol.https.allow always
 wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
 
 # Codeload
-# 假設下載連結為 https://hub.fastgit.org/A/A/archive/master.zip
+# 假設下載連結為 https://hub.fastgit.xyz/A/A/archive/master.zip
 # 或者 https://codeload.github.com/A/A/zip/master
 wget https://download.fastgit.org/A/A/archive/master.zip
 ```

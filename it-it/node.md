@@ -7,7 +7,7 @@ title: Elenco dei Proxy Reverse
 
 | Fonte                            | Indirizzo                         | Intervallo Cache |
 | -------------------------------- | --------------------------------- | ---------------- |
-| github.com                       | hub.fastgit.org                   | N/A              |
+| github.com                       | hub.fastgit.xyz                   | N/A              |
 | raw.githubusercontent.com        | raw.fastgit.org                   | N/A              |
 | github.githubassets.com          | assets.fastgit.org                | N/A              |
 | customer-stories-feed.github.com | customer-stories-feed.fastgit.org | 480 minuti       |
