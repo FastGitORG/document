@@ -1,31 +1,31 @@
-# 隐私声明
+# Déclaration de confidentialité
 
-*生效时间：2020年8月15日*
+*Date d'entrée en vigueur : 15 août 2020*
 
-我们十分重视你的隐私。 本隐私声明阐述了 FastGit 处理的个人数据以及 FastGit 处理个人数据的方式和目的。
+On prend votre vie privée très au sérieux. Cette déclaration de confidentialité décrit les données personnelles que FastGit traite et pourquoi et comment on les traite.
 
-## 我们收集的个人数据
+## Données personnelles qu'on collecte.
 
-FastGit 会收集你与 FastGit 之间的互动数据以及产品使用数据。部分数据由你直接提供，其他数据则由我们通过你与产品的交互以及对产品的使用和体验收集而来。
+FastGit collecte les données sur vos interactions avec FastGit et les données d'utilisation des produits. Certaines données sont fournies directement par vous, et d'autres données sont collectées par nous via vos interactions et votre expérience avec nos produits.
 
-对于 FastGit 核心服务的运行，我们承诺只收集 NGINX 的标准访问日志（其中包含你的IP，访问路径与请求大小等）。关于访问日志的更多讯息，请参阅 [NGINX 日志模块](https://nginx.org/en/docs/http/ngx_http_log_module.html) 以及我们开源的 [NGINX 配置文件](https://github.com/fastgitorg/nginx-conf) 。
+On promet qu'on collecte juste les journaux d'accès standard NGINX (qui incluent votre adresse IP, le chemin d'accès et la taille de la demande, etc.) pour assurer la fonctionnement de FastGit. Pour plus d'informations sur les journaux d'accès, veuillez consulter [NGINX Log Module](https://nginx.org/en/docs/http/ngx_http_log_module.html) et notre [fichier de configuration NGINX](https://github.com/fastgitorg/nginx-conf).
 
-## 我们如何使用个人数据
+## Comment on traite vos données personnelles
 
-FastGit 使用我们收集的数据为你提供丰富的交互式体验。我们使用数据的典型目的包括：
+On utilise les données qu'on collecte pour vous offrir une expérience riche et interactive. Les objectifs typiques pour lesquels on utilise les données incluent:
 
-- 提供我们的产品，包括数据分析，服务器采购，以及提供支持。
-- 改进和开发我们的产品。
-- 个性化我们的产品并提出建议。
+- Fournir nos produits, ça compris l'analyse de données, l'achat de serveurs et fournir une assistance.
+- Améliorer et développer nos produits.
+- Personnaliser nos produits et faire des recommandations.
 
-## 共享个人数据
+## Partage des données personnelles
 
-我们不与第三方共享你的个人数据。
+On ne partage pas vos données personnelles avec des tiers.
 
-## 如何访问和控制你的个人数据
+## Comment accéder et contrôler vos données personnelles
 
-你可以通过联系 FastGit 来控制 FastGit 所获得的你的个人数据，并行使你的数据保护权利。在某些情况下，根据适用法律的要求或许可，你访问或控制自己个人数据的能力将受限。你访问或控制自己个人数据的方式也取决于你所使用的产品。
+Vous pouvez contrôler vos données personnelles obtenues par FastGit et exercer vos droits de protection des données en contactant FastGit. À cause de la loi, dans certaines circonstances, votre capacité à accéder à vos données personnelles ou à les contrôler sera limitée. La façon dont vous accédez ou contrôlez vos données personnelles dépend également du produit que vous utilisez.
 
-## Cookie 和类似技术
+## Cookie et technologies similaires
 
-我们承诺不使用 Cookie 。如若为 GitHub 所配置的 Cookie ，我们则尽可能不干扰。请参阅 [Cookies on GitHub](https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies#cookies-on-github) 以获得更多信息。
+On promet qu'on n'utilise jamais cookies. Et on esssaie de ne pas interférer les cookies configurés par GitHub, Consultez [Cookies sur GitHub](https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies#cookies-on-github) pour plus d'informations.

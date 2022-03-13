@@ -15,6 +15,10 @@ const locales = {
     selectText: '選擇語言 🌐',
     label: '繁體中文',
   },
+  '/fr-fr/': {
+    selectText: 'Languages 🌐',
+    label: 'Français',
+  },
 }
 const sidebar = ['', 'tos', 'privacy', 'guide', 'tools', 'node', 'opensource', 'sponsor']
 
@@ -37,6 +41,9 @@ module.exports = {
     },
     '/zh-tw/': {
       lang: 'zh-TW',
+    },
+    '/fr-fr/': {
+      lang: 'fr-FR',
     },
   },
   themeConfig: {
