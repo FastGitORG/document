@@ -3,8 +3,8 @@
 Veuillez accepter nos conditions de l'accord de services et politique de confidentialité avant de passer à l'étape suivante. Si vous continuez, on gère votre action comme les accepter par défaut.
 
 ::: danger
-En raison de facteurs irréversibles, on a changé le lien hub de hub.fastgit,org à hub.fastgit.xyz.
- :::
+En raison de facteurs irréversibles, on a changé le lien hub de hub.fastgit.org à hub.fastgit.xyz.
+:::
 
 Par rapport à l'utilisation de FastGit, c'est généralement lié à `git`. La commande "clone" utilisé pour GitHub peut être la suivante :
 
