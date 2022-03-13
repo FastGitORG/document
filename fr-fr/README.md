@@ -1,31 +1,30 @@
 ---
-title: 首页
+title: Page Principale
 ---
 
-# FastGit 简体中文指南
+# Guide de FastGit en Français
 
-感谢您阅读 FastGit 中文指南，请在侧栏选择需要的文档。
+Merci d'avoir lu le guide français FastGit, veuillez sélectionner le document requis dans la barre latérale.
 
-## 关于 FastGit
+## Rappel
 
-FastGit 是一个对于 GitHub.com 的镜像加速器。我们使用开放资源为 GitHub 加速。
+FastGit est actuellement encore en version Beta. Nous ajusterons le service en fonction de la situation réelle.
 
-## 提醒
+La station de documentation n'est pas mise à jour en temps réel. Consultez [ce lien](https://github.com/fastgitorg/document) pour la documentation mis à jour.
 
-FastGit 目前仍处于测试阶段。我们会根据实际情况调整服务。
+## À propos de FastGit
 
-文档站未实时更新。有关最新文档，请参阅[此链接](https://github.com/fastgitorg/document)。
+FastGit est un accélérateur miroir pour GitHub.com. Nous utilisons des sources ouvertes pour accélérer GitHub.
 
-## 捐助
+## Faire un don
 
-| ![要饭专家](https://cdn.jsdelivr.net/gh/FastGitORG/Static@fcb1313cad55621d02eab9526c81871f2356d34a/yaofan-expert.jpg) | ![赞赏码](https://cdn.jsdelivr.net/gh/FastGitORG/Static@6c17d9cd35b8d8eea3bcaee88ab892927d56099a/ZanshangCode_Kevin.png) | ![love](https://cdn.jsdelivr.net/gh/FastGitORG/Static@fcb1313cad55621d02eab9526c81871f2356d34a/love.jpg) |
+| ![Expert en mendicité](https://cdn.jsdelivr.net/gh/FastGitORG/Static@fcb1313cad55621d02eab9526c81871f2356d34a/yaofan-expert.jpg) | ![Code de don](https://cdn.jsdelivr.net/gh/FastGitORG/Static@6c17d9cd35b8d8eea3bcaee88ab892927d56099a/ZanshangCode_Kevin.png) | ![amour](https://cdn.jsdelivr.net/gh/FastGitORG/Static@fcb1313cad55621d02eab9526c81871f2356d34a/love.jpg) |
 | --- | --- | --- |
 
+## Nous contacter
 
-## 联系我们
-
-| 联系方式 | 地址 |
+|Contact |Adresse |
 | ------- | ---- |
 | Telegram | [@fastgit](https://t.me/fastgit) |
-| E-Mail | [admin@fastgit.org](mailto:admin@fastgit.org) |
-| PGP | [020B 3AA0 7544 D004 806B D325 635B D4CA DD45 BD31](https://raw.githubusercontent.com/FastGitORG/PGP/main/public.asc) |
+| Courriel | [admin@fastgit.org](mailto:admin@fastgit.org) |
+| PGP | [020B 3AA0 7544 D004 806B D325 635B D4CA DD45 BD31](https://raw.githubusercontent.com/FastGitORG/PGP/main/public.asc)|
