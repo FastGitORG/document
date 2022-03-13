@@ -1,12 +1,12 @@
-# 辅助工具
+# Outils auxiliaires
 
-为方便 FastGit 的使用，我们构建了如下官方工具。具体信息请参阅对应项目文档。
+Pour faciliter l'utilisation de FastGit, on a développé les outils officiels suivants. Pour plus de détails, veuillez vous reporter à la documentation du projet correspondant.
 
 ## fgit
 
-一个 git 的辅助工具。
+Un outil d'assistance git.
 
-| 项目 | 地址 | 主要维护人员 |
+| Projet | Adresse | Mainteneur principal |
 | --- | ---- | ---------- |
 | fgit | <https://github.com/FastGitORG/fgit> | [@xkeyc](https://github.com/xkeyC) |
 | fgit-deno | <https://github.com/FastGitORG/fgit-deno> | [@kidonng](https://github.com/kidonng) |
@@ -17,16 +17,16 @@
 
 ## FastGit.user.js
 
-油猴插件用于辅助用户。
+Un plugin TamperMonkey pour aider les utilisateurs.
 
-| 项目 | 地址 | 主要维护人员 |
+| Projet | Adresse | Mainteneur principal |
 | --- | ---- | ---------- |
 | FastGit.user.js | <https://gist.github.com/vhxubo/d67fbd5bb3b7308b2e3690ca58e12c12>, <https://greasyfork.org/zh-CN/scripts/402301-fastgit> | [@vhxubo](https://github.com/vhxubo) |
 
 ## PSFastGet
 
-一个 Powershell 脚本用于下载 GitHub 文件。目前已被 [fgit](#fgit) 所取代。
+Un script Powershell pour télécharger les fichiers GitHub. Actuellement remplacé par [fgit](#fgit).
 
-| 项目 | 地址 | 主要维护人员 |
+| Projet | Adresse | Mainteneur principal |
 | --- | ---- | ---------- |
 | PSFastGet | <https://github.com/FastGitORG/PSFastGet> | [@KevinZonda](https://github.com/KevinZonda) |
