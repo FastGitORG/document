@@ -1,35 +1,35 @@
-# 服务条款
+# Conditions d'utilisation
 
-*生效时间：2020年9月2日*
+*Date d'entrée en vigueur : 2 septembre 2020*
 
-本文的"我"，"我们"运营 FastGit 。
+Le "on", "nous" de cet article opère FastGit.
 
-## 基础
+## Base
 
-使用者都必须遵守当地的所有法律法规且都有义务熟悉并遵守相关的法律法规。
+Les utilisateurs doivent respecter toutes les lois et réglementations locales et sont tenus de connaître et de respecter les lois et réglementations en vigueur.
 
-根据相关法律法规，本站不对欧盟，英国与美国加利福尼亚区域用户提供服务。
+Conformément aux lois et réglementations en vigueur, ce site ne fournit pas de services aux utilisateurs de l'Union européenne, du Royaume-Uni et de la région de Californie aux États-Unis.
 
-## 隐私
+## Vie privée
 
-在 FastGit 使用途中，我们承诺不会记录您的任何信息，包括您的 `Cookie` 以及 `Session` 。对于私有项目，我们并不会进行干涉。对于 Release 相关的缓存源自自动，请自行选择使用与否。
+Lors de l'utilisation de FastGit, nous nous engageons à n'enregistrer aucune de vos informations, y compris vos `Cookie` et `Session`. Nous n'intervenons pas les projets privés. Pour les caches liés à la version, vous pouvez choisir de les utiliser ou non.
 
-需要注意的是， FastGit 没有义务保证您的账户安全。
+Vous devez noter que FastGit n'a aucune responsabilité de sécuriser votre compte.
 
-欲了解更多，请参阅 [隐私声明](privacy.md) 章节。
+Pour plus d'informations, veuillez consulter la section [Déclaration de confidentialité](privacy.md).
 
-## 服务保证
+## Garantie de service
 
-我们不提供任何服务可用性（SLA）等保证。
+Nous ne fournissons aucune garantie telle que le service-level agreement (SLA).
 
-## 滥用
+## Abus
 
-当我们发现疑似滥用行为时，我们会无限期阻止你的 IP 访问。
+Lorsque nous détectons un abus présumé, nous bloquons votre accès IP indéfiniment.
 
-## 版权
+## Droits d'auteur
 
-我们所有资源均来自志愿者或者其他的开源项目。 FastGit 遵守所有相关协定。所有项目的版权均归属于其作者，我们并不持有。
+Toutes nos ressources proviennent de bénévoles ou d'autres projets open source. FastGit adhère à tous les protocoles pertinents. Tous les articles sont la propriété de leurs auteurs et ne sont pas détenus par nous.
 
-## 违反
+## Enfreignent
 
-如您违反相关法律法规、本协议以及专项规则的规定，我们有权进行独立判断并随时限制或终止您的使用，且根据实际情况决定是否恢复使用。由此给您带来的损失由您自行承担。
+Si vous enfreignez les lois et règlements pertinents, cet accord et les règles spéciales, nous avons le droit de porter des jugements indépendants et de restreindre ou de mettre fin à votre utilisation à tout moment, et de décider de reprendre l'utilisation en fonction de la situation réelle. La perte qui vous en résultera sera supportée par vous.
