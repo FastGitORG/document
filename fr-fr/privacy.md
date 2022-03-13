@@ -1,14 +1,14 @@
-# 隐私声明
+# Déclaration de confidentialité
 
-*生效时间：2020年8月15日*
+*Date d'entrée en vigueur : 15 août 2020*
 
-我们十分重视你的隐私。 本隐私声明阐述了 FastGit 处理的个人数据以及 FastGit 处理个人数据的方式和目的。
+Nous prenons votre vie privée très au sérieux. Cette déclaration de confidentialité décrit les données personnelles que FastGit traite et pourquoi et comment on les traite.
 
-## 我们收集的个人数据
+## Données personnelles que nous collectons
 
-FastGit 会收集你与 FastGit 之间的互动数据以及产品使用数据。部分数据由你直接提供，其他数据则由我们通过你与产品的交互以及对产品的使用和体验收集而来。
+FastGit collecte les données sur vos interactions avec FastGit et les données d'utilisation des produits. Certaines données sont fournies directement par vous, et d'autres données sont collectées par nous via vos interactions et votre expérience avec nos produits.
 
-对于 FastGit 核心服务的运行，我们承诺只收集 NGINX 的标准访问日志（其中包含你的IP，访问路径与请求大小等）。关于访问日志的更多讯息，请参阅 [NGINX 日志模块](https://nginx.org/en/docs/http/ngx_http_log_module.html) 以及我们开源的 [NGINX 配置文件](https://github.com/fastgitorg/nginx-conf) 。
+On promet qu'on collecte juste les journaux d'accès standard NGINX (qui incluent votre adresse IP, le chemin d'accès et la taille de la demande, etc.) pour assurer la fonctionnement de FastGit. Pour plus d'informations sur les journaux d'accès, veuillez consulter [NGINX Log Module](https://nginx.org/en/docs/http/ngx_http_log_module.html) et notre [fichier de configuration NGINX](https://github.com/fastgitorg/nginx-conf).
 
 ## 我们如何使用个人数据
 

@@ -13,3 +13,4 @@ Due to irreversible factors, we have updated our hub link from hub.fastgit.org t
 - [Italiano](/it-it/)
 - [简体中文](/zh-cn/)
 - [繁體中文](/zh-tw/)
+- [Français](/fr-fr/)
