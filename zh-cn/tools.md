@@ -15,13 +15,14 @@
 | fgit-rs | <https://github.com/FastGitORG/fgit-rs> | [@batkiz](https://github.com/batkiz) |
 | FastGit.Tool.FGit | <https://github.com/FastGitORG/FastGit.Tool.FGit> | [@Rwing](https://github.com/Rwing) |
 
-## FastGit.user.js
+## 油猴脚本
 
-油猴插件用于辅助用户。
+油猴脚本用于辅助用户使用 FastGit 的服务。用户可以通过 GreaseMonkey、TamperMonkey 等插件使用下列脚本。
 
 | 项目 | 地址 | 主要维护人员 |
 | --- | ---- | ---------- |
 | FastGit.user.js | <https://gist.github.com/vhxubo/d67fbd5bb3b7308b2e3690ca58e12c12>, <https://greasyfork.org/zh-CN/scripts/402301-fastgit> | [@vhxubo](https://github.com/vhxubo) |
+| GitHub_with_FastGit.user.js | <https://github.com/FirefoxBar/userscript/tree/main/GitHub_with_FastGit> | [@ShuangYa](https://github.com/sylingd) |
 
 ## PSFastGet
 
