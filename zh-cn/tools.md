@@ -14,6 +14,7 @@
 | fgit-nodejs | <https://github.com/FastGitORG/fgit-nodejs> | [@lihai2333](https://github.com/lihai2333) |
 | fgit-rs | <https://github.com/FastGitORG/fgit-rs> | [@batkiz](https://github.com/batkiz) |
 | FastGit.Tool.FGit | <https://github.com/FastGitORG/FastGit.Tool.FGit> | [@Rwing](https://github.com/Rwing) |
+| fgitR | <https://github.com/FastGitORG/fgitR> | [@womeimingzi11](https://github.com/womeimingzi11) |
 
 ## FastGit.user.js
 
