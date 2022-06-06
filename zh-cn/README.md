@@ -8,7 +8,7 @@ title: 首页
 
 ## 关于 FastGit
 
-FastGit 是一个对于 GitHub.com 的镜像加速器。我们使用开放资源为 GitHub 加速。
+FastGit 是一个对于 GitHub.com 的镜像加速器。我们使用共享资源为 GitHub 加速。
 
 ## 提醒
 

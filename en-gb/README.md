@@ -8,7 +8,7 @@ Thank you for reading our documents. This is our guidance document.
 
 ## About FastGit
 
-FastGit is an open source mirror speeder for GitHub.com. We use open resources to accelerate the speed of accessing GitHub.
+FastGit is an open source mirror speeder for GitHub.com. We use shared resources to accelerate the speed of accessing GitHub.
 
 ## Tips
 
