@@ -9,7 +9,6 @@
 | 項目 | 地址 | 主要維護人員 |
 | --- | ---- | ---------- |
 | fgit | <https://github.com/FastGitORG/fgit> | [@xkeyc](https://github.com/xkeyC) |
-| fgit-deno | <https://github.com/FastGitORG/fgit-deno> | [@kidonng](https://github.com/kidonng) |
 | fgit-go | <https://github.com/FastGitORG/fgit-go> | [@KevinZonda](https://github.com/KevinZonda) |
 | fgit-nodejs | <https://github.com/FastGitORG/fgit-nodejs> | [@lihai2333](https://github.com/lihai2333) |
 | fgit-rs | <https://github.com/FastGitORG/fgit-rs> | [@batkiz](https://github.com/batkiz) |
