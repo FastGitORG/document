@@ -3,7 +3,7 @@
 Si prega di leggere e accettare il nostro Termini di servizio e Dichiarazione sulla privacyy, quindi passare alla fase successiva. Una volta fatto ciò, significa che siete d'accordo con il nostro Termini di servizio e Dichiarazione sulla privacy.
 
 ::: danger
-A causa di fattori irreversibili, abbiamo aggiornato il nostro link hub da hub.fastgit.org a hub.fastgit.xyz.
+A causa di fattori irreversibili, abbiamo aggiornato il nostro link hub da hub.fastgit.org a hub.fgit.cf.
 :::
 
 L'uso di FastGit è fondamentalmente riferito a `git` . Per le comuni operazioni di GitHub, puoi usare il comando `clone` come:
@@ -15,7 +15,7 @@ git clone https://github.com/author/repo
 Per usare FastGit, lo si cambia in:
 
 ```bash
-git clone https://hub.fastgit.xyz/author/repo
+git clone https://hub.fgit.cf/author/repo
 ```
 
 Proprio come quello che vedi, FastGit è fisicamente un proxy di GitHub, e quello che devi fare è semplicemente sostituire l'URL.
@@ -25,7 +25,7 @@ Puoi anche modificare le configurazioni di `git` per prendere un modo più sempl
 Puoi anche cambiare la configurazione di `git` direttamente, sostituendo il link di GitHub interamente con FastGit:
 
 ```bash
-git config --global url."https://hub.fastgit.xyz/".insteadOf "https://github.com/"
+git config --global url."https://hub.fgit.cf/".insteadOf "https://github.com/"
 git config protocol.https.allow always
 ```
 
@@ -52,30 +52,22 @@ Per le comuni operazioni di "clone" e "push", FastGit ha già fornito un support
 ```bash
 # Release
 # Se il tuo link di downalod è: https://github.com/A/A/releases/download/1.0/1.0.tar.gz , allora lo usi:
-wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
+wget https://hub.fgit.cf/A/A/releases/download/1.0/1.0.tar.gz
 
 # Codeload
-# Se il vostro link per il download è: https://hub.fastgit.xyz/A/A/archive/master.zip
+# Se il vostro link per il download è: https://hub.fgit.cf/A/A/archive/master.zip
 # o https://codeload.github.com/A/A/zip/master
-wget https://download.fastgit.org/A/A/archive/master.zip
+wget https://hub.fgit.cf/A/A/archive/master.zip
 ```
 
 ## SSH Operazione
 
-~~Supportiamo anche il clone SSH. Basta sostituire github.com a fastgit.org per godere.~~~
-
-~~A causa di alcuni fattori irrefrenabili, non forniamo il servizio di clonazione SSH.~~
-
-26/06/2021 Aggiornamento: Poiché il problema 2FA persiste, è difficile ottenere molto tramite HTTPS. Vista la situazione attuale, abbiamo continuato il servizio di funzionamento SSH.
-
-A differenza di prima, abbiamo diviso il dominio dove si trova il servizio SSH, in altre parole non è possibile lavorare sostituendo l'indirizzo con FastGit.org.
-
-Il nostro indirizzo di funzionamento SSH è **ssh.fastgit.org**, e possiamo velocizzare le cose semplicemente sostituendo l'indirizzo.
+A causa di alcuni fattori irrefrenabili, non forniamo il servizio di clonazione SSH.
 
 ## Per il proxy raw
 
 Abbiamo anche il proxy per <https://raw.githubusercontent.com/> .  
-L'URL è: <https://raw.fastgit.org/> .
+L'URL è: <https://raw.fgit.cf/> .
 
 ## Cosa fare se hai problemi con FastGit
 
