@@ -3,7 +3,7 @@
 请在同意我们服务条款和隐私协议后，再进行下一步。如若进行，我们将默认视为同意并遵守我们的服务条款和隐私协议。
 
 ::: danger
-由于不可抗逆的因素，我们已经将我们的枢纽链接从 hub.fastgit.org 更新到 hub.fastgit.xyz。
+由于不可抗逆的因素，我们已经将我们的枢纽链接从 hub.fastgit.org 更新到 hub.fgit.cf。
 :::
 
 关于 FastGit 的使用，本质上与 `git` 有关。常规的面向 GitHub 的 `clone` 命令可能如下：
@@ -15,7 +15,7 @@ git clone https://github.com/author/repo
 使用 FastGit 时，可使用如下命令：
 
 ```bash
-git clone https://hub.fastgit.xyz/author/repo
+git clone https://hub.fgit.cf/author/repo
 ```
 
 正如您所见， FastGit 仅仅是 GitHub 的代理，所以我们仅需要替换远程地址。
@@ -23,7 +23,7 @@ git clone https://hub.fastgit.xyz/author/repo
 当然，您也可以直接修改 `git` 的配置，使用 FastGit 替换所有指向 GitHub 的链接：
 
 ```bash
-git config --global url."https://hub.fastgit.xyz/".insteadOf "https://github.com/"
+git config --global url."https://hub.fgit.cf/".insteadOf "https://github.com/"
 git config protocol.https.allow always
 ```
 
@@ -50,29 +50,21 @@ git config protocol.https.allow always
 ```bash
 # Release
 # 假设下载链接为 https://github.com/A/A/releases/download/1.0/1.0.tar.gz
-wget https://download.fastgit.org/A/A/releases/download/1.0/1.0.tar.gz
+wget https://hub.fgit.cf/A/A/releases/download/1.0/1.0.tar.gz
 
 # Codeload
-# 假设下载链接为 https://hub.fastgit.xyz/A/A/archive/master.zip
+# 假设下载链接为 https://hub.fgit.cf/A/A/archive/master.zip
 # 或者 https://codeload.github.com/A/A/zip/master
-wget https://download.fastgit.org/A/A/archive/master.zip
+wget https://hub.fgit.cf/A/A/archive/master.zip
 ```
 
 ## SSH 操作
 
-~~我们同样支持 SSH 克隆，您只需要把地址更换为 fastgit.org 即可。~~
-
-~~由于不可抗逆因素，我们暂不支持 SSH 克隆。~~
-
-26/06/2021 更新：由于 2FA 问题持续存在，所以我们很难以通过 HTTPS 的方法完成很多事。鉴于目前情况，我们继续开放了 SSH 操作入口。
-
-与之前不同，我们拆分了 SSH 服务所在的域名，换句话说并不能通过替换地址为 FastGit.org 完成操作。
-
-目前我们的 SSH 克隆地址为 **ssh.fastgit.org**。只需要修正地址即可完成加速。
+由于不可抗逆因素，我们暂不支持 SSH 克隆。
 
 ## 对于 raw 的代理
 
-我们同样对 <https://raw.githubusercontent.com/> 进行了代理，地址为 <https://raw.fastgit.org/>。
+我们同样对 <https://raw.githubusercontent.com/> 进行了代理，地址为 <https://raw.fgit.cf/>。
 
 ## 当遇到 FastGit 存在问题时的处理方法
 
