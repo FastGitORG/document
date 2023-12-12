@@ -4,7 +4,7 @@ heroImage: https://cdn.jsdelivr.net/gh/FastGitORG/logo@ad87e38c7101537010b3dc6f7
 ---
 
 ::: danger
-Due to irreversible factors, we have updated our hub link from hub.fastgit.org to hub.fgit.cf.
+Due to irreversible factors, we have updated our hub link from hub.fastgit.org to [hub.fgit.cf](https://hub.fgit.cf).
 :::
 
 # Choose a language

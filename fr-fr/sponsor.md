@@ -14,20 +14,6 @@ Si vous êtes développeur, nous voulons que vous construisiez FastGit avec nous
 
 Si vous êtes un opérateur d'hébergement, nous aimerions que vous travailliez avec nous pour construire l'infrastructure pour FastGit, qui en est encore à ses balbutiements.
 
-## Pour ceux qui sont riches
-
-Veuillez nous donner de l'argent pour nous aider à fonctionner normalement.
-
-![Code de don](https://cdn.jsdelivr.net/gh/FastGitORG/Static@6c17d9cd35b8d8eea3bcaee88ab892927d56099a/ZanshangCode_Kevin.png)
-
-:::warning Avertissement
-Vous ne seriez pas être bénéficié pour votre don.
-:::
-
-:::tip
-Vous pouvez demander un remboursement dans les 7 jours avec une preuve de paiement valide.
-:::
-
 ## Informations de contact
 
 |Contact |Adresse |
