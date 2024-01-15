@@ -31,17 +31,13 @@ git config protocol.https.allow always
 当您排查网络错误时别忘了看看 FastGit 是否宕机了，尽管我们提供高达 0% 可用性的 SLA 保障。
 :::
 
-:::warning 注意
-我们暂时不支持超过 2GiB 的仓库的 `clone`，请参阅 <https://github.com/FastGitORG/nginx-conf/issues/14> 与 <https://github.com/FastGitORG/nginx-conf/commit/61a41bc0bbb012fc9a6e54b198a10874eeaf9309>。
-:::
-
 我们并不反对对 git 配置的修改以方便您的工作。
 
 随着 FastGit 的成长，我们会拥有更多资源用于加速，对于节点列表，请参阅 [节点](../zh-cn/node.html) 章节。
 
 ## Web 的使用
 
-对于常见的 GitHub Web 操作， FastGit 的基础节点也提供了最基本的支持。您可以直接访问包含有 Web 支持的节点。出于安全考虑，我们会禁用包括 `Cookie` 以及 `Session` 等敏感权限。这意味着您不能登录进行操作。
+对于常见的 GitHub Web 操作， FastGit 的基础节点也提供了最基本的支持。您可以直接访问包含有 Web 支持的节点。目前我们已经支持登录操作（因未对 api.github.com 进行代理，USB Key 2FA 等部分功能不可用）。Github 对一些功能（例如搜索）有速率限制，如果遇到 429 错误，可以尝试登录后继续使用。
 
 ## Release 和源码存档的下载
 
@@ -65,6 +61,10 @@ wget https://hub.fgit.cf/A/A/archive/master.zip
 ## 对于 raw 的代理
 
 我们同样对 <https://raw.githubusercontent.com/> 进行了代理，地址为 <https://raw.fgit.cf/>。
+
+:::warning 注意
+由于某些仓库的用量较大，我们对 raw 启用了有效期为 5 分钟的缓存。
+:::
 
 ## 当遇到 FastGit 存在问题时的处理方法
 
