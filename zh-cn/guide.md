@@ -41,7 +41,7 @@ git config protocol.https.allow always
 
 ## Release 和源码存档的下载
 
-对于正常的 `clone` ， `push` 操作，FastGit 已经提供了相当完善的操作。对于 Release 和源码存档的下载，我们可以使用如下方法进行操作。
+对于正常的 `clone` ， `push` 操作，FastGit 已经提供了相当完善的支持。对于 Release 和源码存档的下载，我们可以使用如下方法进行操作。
 
 ```bash
 # Release
@@ -61,6 +61,10 @@ wget https://hub.fgit.cf/A/A/archive/master.zip
 ## 对于 raw 的代理
 
 我们同样对 <https://raw.githubusercontent.com/> 进行了代理，地址为 <https://raw.fgit.cf/>。
+
+## 对于 gist 的代理
+
+我们对 <https://gist.github.com/> 和 <https://gist.githubusercontent.com/> 进行了代理，地址为 <https://gist.fgit.cf/>。
 
 :::warning 注意
 由于某些仓库的用量较大，我们对 raw 启用了有效期为 5 分钟的缓存。
